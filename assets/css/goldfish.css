@@ -38,3 +38,6 @@ h4.font-weight-bold.spanborder {
 .tryNow a.nav-link:hover {
     color: #95e7e2 !important;
 }
+div#navbarColor02 {
+    background: white;
+}

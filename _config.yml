@@ -4,9 +4,9 @@ description: GoldFish keep track of what's on the web. Try today.
 logo: 'assets/images/goldfish.svg'
 favicon: 'assets/images/goldfish.svg'
 baseurl: ''
-disqus: 'goldfishZ'
+disqus: 'disqus_BSQKXyVFLL'
 email: 'services@goldfishservice.xyz'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'http://eepurl.com/he-SCz'
 
 include: ["_pages"]
 permalink: /:title/
