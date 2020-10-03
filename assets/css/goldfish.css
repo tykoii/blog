@@ -1,0 +1,43 @@
+/*!
+ * Custom edits go in this file
+ */
+
+
+/* 
+    $lightBlue rgba(94,217,209,.4);
+    $darkBlue: #171753; 
+*/
+
+body.homefirstpage, .topnav.bg-white, .card-body, footer.bg-white {
+    background: rgba(94,217,209,.4) !important;
+}
+main.site-content {
+    margin-top: 3rem;
+}
+.navbar-brand strong {
+    color: #171753;
+}
+a.text-dark {
+    color: #171753 !important;
+}
+h4.font-weight-bold.spanborder {
+    color: #171753;
+}
+.tryNow a.nav-link {
+    color: white !important;
+    background: #171753 !important;
+    float: right;
+    margin-left: 3rem;
+    margin-right: -8rem;
+    font-weight: 600;
+    position: absolute;
+    top: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.tryNow a.nav-link:hover {
+    color: #95e7e2 !important;
+}
+div#navbarColor02 {
+    background: white;
+}
