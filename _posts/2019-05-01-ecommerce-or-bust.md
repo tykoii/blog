@@ -2,7 +2,7 @@
 layout: post
 title:  "2020 Economy- Online or Bust"
 author: al
-categories: [ webfree, guide ]
+categories: [ Vision, Guide ]
 image: assets/images/2.jpg
 ---
 <h3>In the past year, it's become abundantly apparent that to not be online is to be unknown. </h3>

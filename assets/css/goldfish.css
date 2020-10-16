@@ -9,7 +9,7 @@
 */
 
 body.homefirstpage, .topnav.bg-white, .card-body, footer.bg-white {
-    background: rgba(94,217,209,.4) !important;
+    background: rgb(94 217 209) !important;
 }
 main.site-content {
     margin-top: 3rem;
@@ -39,5 +39,12 @@ h4.font-weight-bold.spanborder {
     color: #95e7e2 !important;
 }
 div#navbarColor02 {
-    background: white;
+    background: transparent;
+}
+
+img.icon {
+    max-height: 3.5rem;
+}
+a.navbar-brand {
+    padding: 0;
 }

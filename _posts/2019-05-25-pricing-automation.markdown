@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "StoreCat and GoldFish collaborate to Automate Price Matching"
-categories: [ Jekyll ]
+categories: [ Automation ]
 image: assets/images/blog/storecat.svg
 ---
 For E-Commerce businesses, staying competitive is everything. This can often mean constantly checking competitor sites for new offering or regular inventory counts and pricing updates.
