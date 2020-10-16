@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GoldFish scraping service offers grant for Blockchain developers"
-categories: [ Jekyll ]
+categories: [ Oracles ]
 image: assets/images/blog/bridge.jpg
 ---
 
