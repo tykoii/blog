@@ -1,12 +1,28 @@
 ---
 layout: post
-title:  "The WebFree Archive"
+title:  "We're building the honest web"
 categories: [ Vision ]
 image: assets/images/blog/global-archive.jpg
 ---
-We've been really happy to hear how much time people are saving with Goldfish scrapers. We want to take it a step further!
-<br>
-<hr>
+
+In the decades since it's inception, the internet has quickly become the core of our entire society. Where once we were cautioned not to trust Wikipedia, we now see even top news stations citing Twitter over objective journalism. In this new age, we hope to bring a common source of truth.
+
+<h1>Our belief</h1>
+Our survival as a species depends not on our abilities as hunters, not gatherers, except where we hunt innovations, and gather great minds. The internet has become the tool for this great safari of ideas, and we hope that we serve as its custodians.
+
+<b>We are creating a data layer on top of the internet so that we can preserve our species' greatest treasure, and to ensure it is not altered to suit the rulers of tomorrow.</b>
+
+<h3>Our New Web</h3>
+We see three main problems with the traditional internet, and we think we've found the solution:
+<ol>
+    <li>Incentivised</li>
+    <li>Transparent</li>
+    <li>Open</li>
+</ol>
+We'll get into each of these more in future posts, but the key is that our network will incentivise individual participation, share all data on a public forum, and ensure that we have a strong and verifiable chain of evidence backing every record.
+
+<h1>How to Help</h1>
+We at GoldFish are building the tools to make this future a reality, but we need your help to make it possible. We need you to help us decide which websites to index, and which information is important.
 
 <h3>Saving Resources</h3>
 We don't think of ourselves as environmentalists, but we're definitely into efficiency. With that in mind, we're soon going to be offering users the ability to share their scraped data on an open archive. 

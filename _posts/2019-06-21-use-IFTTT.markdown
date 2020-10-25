@@ -5,5 +5,6 @@ categories: [ Automation ]
 image: assets/images/blog/IFTTT-Banner.png
 ---
 
+# IFTTT Can be the key to unlocking productivity
 
 
