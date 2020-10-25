@@ -21,6 +21,9 @@ We see three main problems with the traditional internet, and we think we've fou
 </ol>
 We'll get into each of these more in future posts, but the key is that our network will incentivise individual participation, share all data on a public forum, and ensure that we have a strong and verifiable chain of evidence backing every record.
 
+<h3>Why?</h3>
+By building a data layer on top of the traditional web, and incentivising it's maintenance and upkeep, we will hope to ensure equitable access to large data sets, not just the big tech firms. We are building standards for data formats, so that anyone can easily build search engines, notification networks, and much more.
+
 <h1>How to Help</h1>
 We at GoldFish are building the tools to make this future a reality, but we need your help to make it possible. We need you to help us decide which websites to index, and which information is important.
 
