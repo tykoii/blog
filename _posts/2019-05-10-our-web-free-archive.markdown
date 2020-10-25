@@ -8,7 +8,7 @@ image: assets/images/blog/global-archive.jpg
 In the decades since it's inception, the internet has quickly become the core of our entire society. Where once we were cautioned not to trust Wikipedia, we now see even top news stations citing Twitter over objective journalism. In this new age, we hope to bring a common source of truth.
 
 <h1>Our belief</h1>
-Our survival as a species depends not on our abilities as hunters, not gatherers, except where we hunt innovations, and gather great minds. The internet has become the tool for this great safari of ideas, and we hope that we serve as its custodians.
+Our survival as a species depends not on our abilities as hunters, nor gatherers, except where we hunt innovations, and gather great minds. The internet has become the tool for this great safari of ideas, and we hope that we serve as its custodians.
 
 <b>We are creating a data layer on top of the internet so that we can preserve our species' greatest treasure, and to ensure it is not altered to suit the rulers of tomorrow.</b>
 
