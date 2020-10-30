@@ -32,7 +32,7 @@ We want to create an honest internet by incentivising our community to help us k
 A system with no owner falls forever into disrepair, but a system with no champions has no will to survive. Our initial network will be governed by a mix of journalists, academics, our own users, and our investors. From this point, we will open participation to anyone who is interested, and we will ensure freedom of publicaton and perspective.
 
 ### Transparent
-The only way that an archive of human knowledge can exist is if it's public data. Most of the internet archives in 2020 remain closed doors, disconnected from the average person our our general information systems. We hope to change that, by providing incentives to collaborate and preserve our most treasured resource.
+The only way that an archive of human knowledge can exist is if it's public data. Most of the internet archives in 2020 remain closed doors, disconnected from the average person or our general information systems. We hope to change that, by providing incentives to collaborate and preserve our most treasured resource.
 
 ### Incentivised
 Our society is well-past the days of civil rights marches and personal sacrifice. It is our mission to build a system that is not only accountable, but also ensures the economic well-being of it's stewards. Each of us has a role to play in the information economy, and it is our mission to ensure that contributions are reliably measured and that compensation is issued not once, but over the entire lifetime of the system, even if it outlasts it's contributors.
