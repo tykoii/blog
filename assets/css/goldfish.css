@@ -48,3 +48,28 @@ img.icon {
 a.navbar-brand {
     padding: 0;
 }
+
+// beta rebrand
+main.site-content, .card-body.px-0.pb-0.d-flex.flex-column.align-items-start {
+    background: white !important;
+}
+nav#MagicMenu {
+    background: #171753 !important;
+    color: white !important;
+}
+body.homefirstpage, .topnav.bg-white, .card-body, footer.bg-white {
+    background: white !important;
+}
+av a.nav-link {
+    color: white !important;
+    font-weight: 600;
+}
+.tryNow a.nav-link {
+    border-radius: 0.25rem;
+    border: 1px solid white;
+    margin-top: -0.3rem;
+}
+footer strong {
+    color: white !important;
+}
+
