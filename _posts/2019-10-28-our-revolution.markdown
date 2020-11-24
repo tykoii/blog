@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our Communal Revolution"
+title:  "The Future of Accountable Information"
 categories: [ Vision ]
 image: assets/images/horizon.jpg
 ---
