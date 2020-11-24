@@ -72,4 +72,7 @@ av a.nav-link {
 footer strong {
     color: white !important;
 }
-
+a.nav-link {
+    color: white !important;
+    font-weight: 600 !important;
+}
