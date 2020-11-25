@@ -6,12 +6,12 @@ image: assets/images/horizon.jpg
 ---
 In the words of the great Lao Tzu, "Today's chaos is yesterday's laziness, back for it's rent."
 
-Every generation, voices shape our perspective. Each day, more children are born, open and excited for the world they will inhabit. Our current state of chaos in the world is the crashing of a tide of awareness across the bow of the authoritarian equivalents of the past. 
+We've had a lot of lazy book-keeping for most of history. It's no suprise that our records are fragmented, and culture dominates the discussion. If we are to repeat the mistakes of our ancestors once again, maybe this time we should record the outcome and causes?
 
-# The Tidal Wave Started 50 Years Ago
-For the past century since the onset of World War I, our collective consciousness has shifted dramatically towards equality and equal opportunity as a cultural, rather than economic spirit. 
+# Digital Media is just a Tool
+For the past century since the onset of World War I, our collective consciousness has shifted dramatically towards equality and equal opportunity as a cultural, rather than economic spirit. Along with this, we've begun to communicate more openly, and modern media has elevated this discussion to the world stage. We're all trying to help eachother learn to help other people, more or less.
 
-With the current state of democratic governments and their economies, it is clear that an alternative is desired by the populace. It's just a matter of time before the people spending the money figure that out. 
+The internet has always been a forum for free speech and a haven from persecution, and we want to keep it that way. 
 
 # Blockchain is our Engine for Change
 Since Bitcoin's debut in 2008, we've seen an explosion of research spending on topics like consensus algorithms, peer-to-peer finance, and other decentralized systems. Even with this technology in it's infancy, we've already seen invigorated and widespread cultural adoption. From the moment someone encounters the concept of decentralized finance, they begin a years-long journey as they transition to a new framework of social and economic interfaces. 
