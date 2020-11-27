@@ -5,7 +5,7 @@ logo: 'assets/images/goldfish.svg'
 favicon: 'assets/images/goldfish.svg'
 baseurl: ''
 disqus: 'disqus_BSQKXyVFLL'
-email: 'services@goldfishservice.xyz'
+email: 'services@openkoi.com'
 mailchimp-list: 'http://eepurl.com/he-SCz'
 
 include: ["_pages"]
