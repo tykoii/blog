@@ -16,11 +16,7 @@ The internet has always been a forum for free speech and a haven from persecutio
 # Blockchain is our Engine for Change
 Since Bitcoin's debut in 2008, we've seen an explosion of research spending on topics like consensus algorithms, peer-to-peer finance, and other decentralized systems. Even with this technology in it's infancy, we've already seen invigorated and widespread cultural adoption. From the moment someone encounters the concept of decentralized finance, they begin a years-long journey as they transition to a new framework of social and economic interfaces. 
 
-It can be hard to notice at first, but authoritarian mindsets are laced into everything we know. Our entire social framework as a species has until now, mostly, been curated by a prescribed few who have worked hard to ensure that their prejudice lives on well beyond it's normal lifetime. 
-
-In the same way that a farmer wishes their family to till the land after their death, our ideological forefathers sought to cement permenantly their own authority as the creators of social order and the innovators of all technology. 
-
-*It is simply not true that any class is responsible for our communal survival.*
+Peer-to-peer technology presents an opportunity to build truth between people, instead of simple manufacturing it for their consumption. As KOI evolves, we hope to provide a boost to those who need the help, and to provide a tool for historical synthesis for all.
 
 # How We're Helping
 The GoldFish archive has been designed to provide a common record; abstract, and accurate, of the goings-on of humanity as documented by our online presence. In the same way that jet-trails in the sky signify progress and global connectivity, our mission is to envelop human life in a simple, common system which allows us to ensure that the records have as little bias as possible.
