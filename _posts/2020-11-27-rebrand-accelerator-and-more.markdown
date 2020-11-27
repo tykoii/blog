@@ -5,7 +5,7 @@ categories: [ Vision ]
 image: assets/images/write-history.jpg
 ---
 
-As we head into the winter, we're excited to announce that KOI has been accepted into the Outlier Ventures Base Camp program. Outlier has been behind major crypto projects since 2016, and they will be helping us make our vision of decentralized web services to fruition.
+As we head into the winter, we're excited to announce that KOI has been accepted into the Outlier Ventures Base Camp program. Outlier has been behind major crypto projects since 2016, and they will be helping us bring our vision of decentralized web services to fruition.
 
 # Looking forward to 2021
 This has been a hard year for most of us, and even harder for some. In 2021, we're hoping to make significant strides in our mission to bring accountability to the web, and you might be able to make some money in the process!
