@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Networking for Netizans"
+categories: [ Announcement ]
+image: assets/images/write-history.jpg
+---
+
+For the first time in history, it might be profitable to spend time arguing with people on the internet. KOI tokens will be available soon, and you can earn  them by participating in our truth-finding game. (More on that below)
+
+# Koi is Growing
+This week, our mailing list saw the most new signups ever, and we've been hearing a lot of amazing ideas for how we can solve the accountability problem. We want to make sure everyone's voice is heard, so please make sure to subscribe and send us an email at <a href="mailto:hello@openkoi.com">hello@openkoi.com</a> and <a href="">join the Discord channel</a> to start participating in the debate!
+
+## App Update
+Soon you'll be able to earn KOI tokens on your computer and mobile phone. Run the app to help us map the internet, and you'll earn KOI tokens that you can use to vouch for sites or content that you believe in. Our desktop app is in development right now, and will be launching in January 2021. 
+
+# The Koi Game
+Koi is a game designed to help build accountability, and ensure access to better information for all humanity. 
+
+To play, participants can install our app, and use it to vote on which web pages and content they believe to be truthful or accurate in its representation of reality. It's not final yet, so make sure to join the community and help us shape the solution. We're in this together.
+
+_*The KOI token is the core of this network, and acts as an incentive system to encourage contribution. Under the current plan, only 1,000,000,000 tokens will ever exist.*_
+
+## The Rules
+1. All participants must run the same, open source software 
+
+2. KOI can be earned by renting device space to help run the network and map the web
+
+3. Once participants have earned KOI, they can also stake them on web pages to vote as to their validity (*either for, or against)
+
+4. KOI earn a variable interest rate while staked
+
+5. Participants can also enter a verdict, proposing a factual resolution of any debate
+
+6. Anyone with KOI can vote on the verdict
+
+## Winner Takes All
+If a verdict is confirmed, all users who staked for the validity of the page will lose their tokens, and the participant who proposed the verdict receives all of the rewards. 
+
+# Motivation 
+Koi is a community-driven project- that means you're the boss. We're open to suggestions, but here's what brought us together so far:
+
+## Transparency = Prosperity
+Through the idealogical revolution of the past 200 years, from the end of monarchy, to the end of slavery, and now the end of centralized media, one thing has stayed constant. Human beings, given more knowledge, become more creative, more generous, and build greater and more amazing solutions than anyone could have ever imagined in the middle ages. 
+
+## Preserving Information
+Wikipedia's list of <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_book-burning_incidents">Book Burning Incidents</a> is over three pages long- we want to make sure that knowledge destruction ends with our generation. The Koi Network will support an archive of the web, to ensure that reliable information is preserved at all costs. 
+
+## Pride and Prejudice
+The purpose of stories is to pass on our legacy, and ensure our cultural heritage to future generations. Unfortunately, culture is powerful, and there have always been attempts to corrupt this process. We hope to fix this by bringing everyone into the fold, so that we can all participate together.
+
+# Stay tuned!
+The beta is coming soon. Click the link below to sign up for our early access list, and you'll get to start earning KOI first!
+
+<a href="https://xyz.us2.list-manage.com/subscribe?u=9842d27bd152b5314774b184c&id=0d4d6aff75" class="cta_button"><h1>Join the Beta Here</h1></a>
