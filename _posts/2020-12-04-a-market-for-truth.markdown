@@ -1,40 +1,42 @@
 ---
 layout: post
-title:  "Networking for Netizans"
+title:  "Net-Working for Netizans"
 categories: [ Announcement ]
-image: assets/images/write-history.jpg
+image: assets/images/blog/argument_victory.png
 ---
 
 For the first time in history, it might be profitable to spend time arguing with people on the internet. KOI tokens will be available soon, and you can earn  them by participating in our truth-finding game. (More on that below)
 
 # Koi is Growing
-This week, our mailing list saw the most new signups ever, and we've been hearing a lot of amazing ideas for how we can solve the accountability problem. We want to make sure everyone's voice is heard, so please make sure to subscribe and send us an email at <a href="mailto:hello@openkoi.com">hello@openkoi.com</a> and <a href="">join the Discord channel</a> to start participating in the debate!
+This week, our mailing list saw the most new signups ever, and we've been hearing a lot of amazing ideas for how we can solve the accountability problem. We want to make sure everyone's voice is heard, so please make sure to subscribe and send us an email at <a target="_blank" href="mailto:hello@openkoi.com">hello@openkoi.com</a> and <a target="_blank" href="https://discord.gg/e3VrUT4DuP">join the Discord channel</a> to start participating in the debate!
 
 ## App Update
 Soon you'll be able to earn KOI tokens on your computer and mobile phone. Run the app to help us map the internet, and you'll earn KOI tokens that you can use to vouch for sites or content that you believe in. Our desktop app is in development right now, and will be launching in January 2021. 
+
+<img title="Actually- it is!" alt="Actually- it is!" src="/assets/images/blog/netizans.jpg">
 
 # The Koi Game
 Koi is a game designed to help build accountability, and ensure access to better information for all humanity. 
 
 To play, participants can install our app, and use it to vote on which web pages and content they believe to be truthful or accurate in its representation of reality. It's not final yet, so make sure to join the community and help us shape the solution. We're in this together.
 
-_*The KOI token is the core of this network, and acts as an incentive system to encourage contribution. Under the current plan, only 1,000,000,000 tokens will ever exist.*_
+_**The KOI token is the core of this network, and acts as an incentive system to encourage contribution. Under the current plan, only 1,000,000,000 tokens will ever exist.**_
 
 ## The Rules
-1. All participants must run the same, open source software 
+1. All <b>participants</b> must run the same, open source software 
 
-2. KOI can be earned by renting device space to help run the network and map the web
+2. <b>KOI</b> can be earned by renting device space to help run the network and map the web
 
-3. Once participants have earned KOI, they can also stake them on web pages to vote as to their validity (*either for, or against)
+3. Once <b>participants</b> have earned KOI, they can also stake them on web pages to vote as to their validity (*either for, or against)
 
-4. KOI earn a variable interest rate while staked
+4. <b>KOI</b> earn a variable interest rate while staked
 
-5. Participants can also enter a verdict, proposing a factual resolution of any debate
+5. <b>Participants</b> can also enter a <b>verdict</b>, proposing a "once-and-for-all" factual resolution of any debate
 
-6. Anyone with KOI can vote on the verdict
+6. Anyone with KOI can vote on the <b>verdict</b>, and the voting will close 30 days after creation
 
 ## Winner Takes All
-If a verdict is confirmed, all users who staked for the validity of the page will lose their tokens, and the participant who proposed the verdict receives all of the rewards. 
+If a verdict is confirmed, all participants who staked for the validity of the page will lose their tokens, and the participant who proposed the verdict receives all of the rewards. 
 
 # Motivation 
 Koi is a community-driven project- that means you're the boss. We're open to suggestions, but here's what brought us together so far:
@@ -51,4 +53,4 @@ The purpose of stories is to pass on our legacy, and ensure our cultural heritag
 # Stay tuned!
 The beta is coming soon. Click the link below to sign up for our early access list, and you'll get to start earning KOI first!
 
-<a href="https://xyz.us2.list-manage.com/subscribe?u=9842d27bd152b5314774b184c&id=0d4d6aff75" class="cta_button"><h1>Join the Beta Here</h1></a>
+<h1><a href="https://xyz.us2.list-manage.com/subscribe?u=9842d27bd152b5314774b184c&id=0d4d6aff75" class="cta_button">Join the Beta Here</a></h1>

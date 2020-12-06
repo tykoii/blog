@@ -76,3 +76,20 @@ a.nav-link {
     color: white !important;
     font-weight: 600 !important;
 }
+
+a.cta_button {
+    font-family: 'Catamaran';
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    background: #03a87c;
+    color: white;
+}
+a.cta_button:hover {
+    text-decoration: underline;
+}
+
+p img {
+    min-width: 50%;
+    margin: auto;
+}
