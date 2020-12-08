@@ -2,10 +2,12 @@
 layout: post
 title:  "Net-Working for Netizans"
 categories: [ Announcement ]
-image: assets/images/blog/argument_victory.png
+image: assets/images/blog/netizans-2.jpg
 ---
 
 For the first time in history, it might be profitable to spend time arguing with people on the internet. KOI tokens will be available soon, and you can earn  them by participating in our truth-finding game. (More on that below)
+
+<img src="/assets/images/blog/argument_victory.png" class="" title="Get paid to play, with koi!" alt="Get paid to play, with koi!">
 
 # Koi is Growing
 This week, our mailing list saw the most new signups ever, and we've been hearing a lot of amazing ideas for how we can solve the accountability problem. We want to make sure everyone's voice is heard, so please make sure to subscribe and send us an email at <a target="_blank" href="mailto:hello@openkoi.com">hello@openkoi.com</a> and <a target="_blank" href="https://discord.gg/e3VrUT4DuP">join the Discord channel</a> to start participating in the debate!
