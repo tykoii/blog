@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "StoreCat and GoldFish collaborate to Automate Price Matching"
+title:  "StoreCat and GoldFish collaborate to Automate Price Comparisons"
 categories: [ Automation ]
 image: assets/images/blog/storecat.svg
 ---
