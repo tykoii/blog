@@ -49,12 +49,12 @@ The core protocol of the KOI network brings these parts together to form a decen
 ## Game Model
 1. Participants add data to the Arweave Permaweb, and receive in return for their contribution a profit-sharing token. This non-fungible ownership share entitles them to a *"ticket"* each time that the content it represents is read by a user of the permaweb, even if in aggregate. 
 
-2. Every 24 hours, one participant can trigger a function to release the daily 1000 KOI tokens as 'Attention Rewards'. The tokens are then distributed to the participants that uploaded them, and those parties are free to spend them as a task-reward within the system.
+2. Every 24 hours, one participant can trigger a function to release the daily 1000 KOI tokens as 'Attention Rewards' to each participant based on the number of tickets they have earned during that period. 
 
 ***Note:*** While 1000 KOI per day may seem like a substantial amount (or highly inflationary) is less than half of the number of Bitcoin per day (~1800) or the number of Ethereum per day (~14000), and requires useful proof of work, in the form of consumed energy to retrieve the data from the internet, as well as the cost of adding it to the permaweb. 
 
 ## Verifiable Tasking
-As well as the core function of rewarding attention within the Arweave network, KOI will also serve as an added incentive since it can be used as a bounty to request certain type of content be added to the chain. When a bounty is set, the payer can also provide rules of the game, which can detail complex engagements that result in adding content to the permaweb, such as those listed above. 
+As well as the core function of rewarding attention within the Arweave network, KOI will also serve as an added incentive since it can be used as a bounty to request certain type of content be added to the chain. When a bounty is set, the payer can also provide rules of the game, which can detail complex engagements that result in adding content to the permaweb, such as "The First Three" listed above. 
 
 # Get Involved
 We, together with the Arweave network, are building the library of the future, and it is completely open to anyone who wants to help. No longer will power or censorship dominate the pages of history, but it's up to each of us to help in this process. We are also working on building tools to make it easier to browse this permanent archive, and would love to have your help, if you're up to the challenge. 
