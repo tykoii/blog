@@ -31,7 +31,7 @@ The value of taste in good information cannot be understated. As personal and de
 <img class="sectionDivider" src="/assets/images/koi-divider.png">
 
 # The KOI Profit-Sharing Community
-Arweave's native contract language ("Smartweave") is executed asynchronously by the user, and the results are then stored at a very small "storage" cost relative to other public blockchains. Because of this, the throughput of the network is limited by the number of users, rather than the number of mining nodes, or their individual capacity.
+Arweave's native contract system ("Smartweave") is executed asynchronously by the user, and the results are then stored at a very small "storage" cost relative to other public blockchains. Because of this, the throughput of the network is limited by the number of users, rather than the number of mining nodes, or their individual capacity.
 
 ## Participants
 The KOI token marketplace will exist as a single contract within this ecosystem, and will enable the interactions of human and machine agents completing KOI Archival tasks. 
