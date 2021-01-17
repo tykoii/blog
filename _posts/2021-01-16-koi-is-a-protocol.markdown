@@ -10,7 +10,7 @@ Starting in March, 1000.0000000000 KOI will be generated and given to whomever i
 
 As more and more people earn KOI for contributing, we will also expand the ability to request verifiable tasks related to the content of this archive, thereby creating an interwoven incentive mechanism to support longterm growth. 
 
-***The KOI Profit Sharing Community will act as an incentive mechanism to reward contributions to the Arweave.***
+***The KOI Profit Sharing Community will act as an incentive mechanism to reward contributions to the Arweave Permaweb.***
 
 <img class="sectionDivider" src="/assets/images/koi-divider.png">
 
