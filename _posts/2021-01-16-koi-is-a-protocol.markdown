@@ -10,7 +10,9 @@ Starting in March, 1000.0000000000 KOI will be generated and given to whomever i
 
 As more and more people earn KOI for contributing, we will also expand the ability to request verifiable tasks related to the content of this archive, thereby creating an interwoven incentive mechanism to support longterm growth. 
 
-**NOTE:** The KOI Profit Sharing Community will act as an incentive mechanism to reward contributions to the Arweave.
+***The KOI Profit Sharing Community will act as an incentive mechanism to reward contributions to the Arweave.***
+
+<img src="/assets/img/koi-divider.png">
 
 # The First Three
 The first three ways that a user can earn extra ***bounty*** tokens will be built as a part of the core product offerring, allowing immediate utility of the token, and providing an example for future development.
@@ -25,6 +27,8 @@ The existing internet already contains a wide range of subject-matter, reference
 The value of taste in good information cannot be understated. As personal and decentralized search agents gain popularity (i.e. The Graph, Fetch.ai, or PUBLC) it is becoming clear that there will soon be a market for a reliable map of the web, and that it will likely be a public good. KOI tasks can be set to incentivize community members to crawl a domain and record metadata, or even map the structure of an API for future tasks to consume.
 
 *All data gathered by the KOI Network will be stored on the permaweb for a minimum of 200 years, ensuring that future generations have an accurate rearview mirror.*
+
+<img src="/assets/img/koi-divider.png">
 
 # The KOI Profit-Sharing Community
 Arweave's native contract language ("Smartweave") is executed asynchronously by the user, and the results are then stored at a very small "storage" cost relative to other public blockchains. Because of this, the throughput of the network is limited by the number of users, rather than the number of mining nodes, or their individual capacity.
@@ -46,6 +50,8 @@ Because the Arweave is permenantly visible to all parties, the result of a given
 ## Trading and Delegation
 Since the Profit Sharing Tokens ("PSTs") are owned for the 200 year endowment of the data, and can produce dividends for the duration if they receive large amounts of attention consistently, they have the potential to be quite valuable, and the owner may desire to sell them, lend them, or otherwise liquidate them in the short term. In the event that this occurs, they have all the properties of traditional non-fungible tokens, and the (Verto PST exchange)[verto.exchange] already supports trading for this format of digital asset. This has the potential to create a futures market for attention, which could potentially result in very interesting insights and predictive models, since it effectively brings market forces to bear on the process of content value appraisal.  
 
+<img src="/assets/img/koi-divider.png">
+
 # The KOI Protocol
 The core protocol of the KOI network brings these parts together to form a decentralized marketplace where task completion can be directly verified by the existence of data on the permanent record. 
 
@@ -58,6 +64,8 @@ The core protocol of the KOI network brings these parts together to form a decen
 
 ## Verifiable Tasking
 As well as the core function of rewarding attention within the Arweave network, KOI will also serve as an added incentive since it can be used as a bounty to request certain type of content be added to the chain. When a bounty is set, the payer can also provide rules of the game, which can detail complex engagements that result in adding content to the permaweb, such as "The First Three" listed above. 
+
+<img src="/assets/img/koi-divider.png">
 
 # Get Involved
 We, together with the Arweave network, are building the library of the future, and it is completely open to anyone who wants to help. No longer will power or censorship dominate the pages of history, but it's up to each of us to help in this process. We are also working on building tools to make it easier to browse this permanent archive, and would love to have your help, if you're up to the challenge. 
