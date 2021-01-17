@@ -10,10 +10,10 @@ Starting in March, 1000.0000000000 KOI will be generated and given to whomever i
 
 As more and more people earn KOI for contributing, we will also expand the ability to request verifiable tasks related to the content of this archive, thereby creating an interwoven incentive mechanism to support longterm growth. 
 
-*The KOI Profit Sharing Community will act as an incentive mechanism to reward contributions to the Arweave.*
+**NOTE:** The KOI Profit Sharing Community will act as an incentive mechanism to reward contributions to the Arweave.
 
 # The First Three
-The first three ways that a user can earn extra _*bounty*_ tokens will be built as a part of the core product offerring, allowing immediate utility of the token, and providing an example for future development.
+The first three ways that a user can earn extra ***bounty*** tokens will be built as a part of the core product offerring, allowing immediate utility of the token, and providing an example for future development.
 
 ## Public Surveys
 A crucial part of modern democracy is polling and census data. The KOI protocol allows anyone to verify their identity and begin answering polling questions. The result will be written on the permaweb for all to see, and can serve not only as an anthropoligical tool, but simultaneously a voting mechanism for a wide range of subjects, ideas, or debates.
@@ -41,7 +41,7 @@ Some tasks are either too tedious or too complex to be done manually. In these c
 ## Identifying Malicious Behaviour
 Because the Arweave is permenantly visible to all parties, the result of a given survey or data gathering excercise can be calculated and cached by each party independantly. As a result, if bad actors are identified, even many years later, the record can be corrected almost immediately to remove their misdirection. 
 
-*_This cannot, of course, remove the second order effects such as the momentum of an election, or other more complex systems, so some activities may choose to require participants to stake for a longer period, or verify some kind of personal credential or offline verification process._*
+***This cannot, of course, remove the second order effects such as the momentum of an election, or other more complex systems, so some activities may choose to require participants to stake for a longer period, or verify some kind of personal credential or offline verification process.***
 
 # The KOI Protocol
 The core protocol of the KOI network brings these parts together to form a decentralized marketplace where task completion can be directly verified by the existence of data on the permanent record. 
@@ -51,7 +51,7 @@ The core protocol of the KOI network brings these parts together to form a decen
 
 2. Every 24 hours, one participant can trigger a function to release the daily 1000 KOI tokens as 'Attention Rewards'. The tokens are then distributed to the participants that uploaded them, and those parties are free to spend them as a task-reward within the system.
 
-_Note:_ While 1000 KOI per day may seem like a substantial amount (or highly inflationary) is less than half of the number of Bitcoin per day (~1800) or the number of Ethereum per day (~14000), and requires useful proof of work, in the form of consumed energy to retrieve the data from the internet, as well as the cost of adding it to the permaweb. 
+***Note:*** While 1000 KOI per day may seem like a substantial amount (or highly inflationary) is less than half of the number of Bitcoin per day (~1800) or the number of Ethereum per day (~14000), and requires useful proof of work, in the form of consumed energy to retrieve the data from the internet, as well as the cost of adding it to the permaweb. 
 
 ## Verifiable Tasking
 As well as the core function of rewarding attention within the Arweave network, KOI will also serve as an added incentive since it can be used as a bounty to request certain type of content be added to the chain. When a bounty is set, the payer can also provide rules of the game, which can detail complex engagements that result in adding content to the permaweb, such as those listed above. 
