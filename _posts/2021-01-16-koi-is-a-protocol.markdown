@@ -54,7 +54,7 @@ The core protocol of the KOI network brings these parts together to form a decen
 
 2. Every 24 hours, one participant can trigger a function to release the daily 1000 KOI tokens as 'Attention Rewards' to each participant based on the number of tickets they have earned during that period. 
 
-***Note:*** While 1000 KOI per day may seem like a substantial amount (or highly inflationary) is less than half of the number of Bitcoin per day (~1800) or the number of Ethereum per day (~14000), and requires useful proof of work, in the form of consumed energy to retrieve the data from the internet, as well as the cost of adding it to the permaweb. 
+***Note:*** While 1000 KOI per day may seem like a substantial available supply (or highly inflationary), this is less than half of the number of Bitcoin per day (~1800) or the number of Ethereum per day (~14000), and requires useful proof of work, in the form of consumed energy to retrieve the data from the internet, as well as the cost of adding it to the permaweb. 
 
 ## Verifiable Tasking
 As well as the core function of rewarding attention within the Arweave network, KOI will also serve as an added incentive since it can be used as a bounty to request certain type of content be added to the chain. When a bounty is set, the payer can also provide rules of the game, which can detail complex engagements that result in adding content to the permaweb, such as "The First Three" listed above. 
