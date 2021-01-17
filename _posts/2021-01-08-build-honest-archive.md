@@ -2,7 +2,7 @@
 layout: post
 title:  "Human Knowledge Library Creators Wanted"
 categories: [ Recruiting ]
-image: assets/images/blog/web3.png
+image: assets/images/blog/smartweave.png
 ---
 
 
