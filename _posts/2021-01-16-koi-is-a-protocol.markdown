@@ -24,7 +24,7 @@ The existing internet already contains a wide range of subject-matter, reference
 ## Indexing And Staking
 The value of taste in good information cannot be understated. As personal and decentralized search agents gain popularity (i.e. The Graph, Fetch.ai, or PUBLC) it is becoming clear that there will soon be a market for a reliable map of the web, and that it will likely be a public good. KOI tasks can be set to incentivize community members to crawl a domain and record metadata, or even map the structure of an API for future tasks to consume.
 
-*All data gathered by the KOI Network will be stored on the permaweb forever, ensuring that future generations have an accurate rearview mirror.*
+*All data gathered by the KOI Network will be stored on the permaweb for a minimum of 200 years, ensuring that future generations have an accurate rearview mirror.*
 
 # The KOI Profit-Sharing Community
 Arweave's native contract language ("Smartweave") is executed asynchronously by the user, and the results are then stored at a very small "storage" cost relative to other public blockchains. Because of this, the throughput of the network is limited by the number of users, rather than the number of mining nodes, or their individual capacity.
@@ -42,6 +42,9 @@ Some tasks are either too tedious or too complex to be done manually. In these c
 Because the Arweave is permenantly visible to all parties, the result of a given survey or data gathering excercise can be calculated and cached by each party independantly. As a result, if bad actors are identified, even many years later, the record can be corrected almost immediately to remove their misdirection. 
 
 ***This cannot, of course, remove the second order effects such as the momentum of an election, or other more complex systems, so some activities may choose to require participants to stake for a longer period, or verify some kind of personal credential or offline verification process.***
+
+## Trading and Delegation
+Since the Profit Sharing Tokens ("PSTs") are owned for the 200 year endowment of the data, and can produce dividends for the duration if they receive large amounts of attention consistently, they have the potential to be quite valuable, and the owner may desire to sell them, lend them, or otherwise liquidate them in the short term. In the event that this occurs, they have all the properties of traditional non-fungible tokens, and the (Verto PST exchange)[verto.exchange] already supports trading for this format of digital asset. This has the potential to create a futures market for attention, which could potentially result in very interesting insights and predictive models, since it effectively brings market forces to bear on the process of content value appraisal.  
 
 # The KOI Protocol
 The core protocol of the KOI network brings these parts together to form a decentralized marketplace where task completion can be directly verified by the existence of data on the permanent record. 
