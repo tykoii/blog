@@ -6,7 +6,7 @@ image: assets/images/koi.png
 ---
 
 # What's a KOI?
-Starting next month, 1000.0000000000 KOI will be generated and given to whomever is the contributor of the content which receives the most attention on the Arweave's Permaweb.
+Starting in March, 1000.0000000000 KOI will be generated and given to whomever is the contributor of the content which receives the most attention on the Arweave's Permaweb.
 
 As more and more people earn KOI for contributing, we will also expand the ability to request verifiable tasks related to the content of this archive, thereby creating an interwoven incentive mechanism to support longterm growth. 
 
