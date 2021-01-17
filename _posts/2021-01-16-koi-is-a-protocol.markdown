@@ -48,7 +48,7 @@ Because the Arweave is permenantly visible to all parties, the result of a given
 ***This cannot, of course, remove the second order effects such as the momentum of an election, or other more complex systems, so some activities may choose to require participants to stake for a longer period, or verify some kind of personal credential or offline verification process.***
 
 ## Trading and Delegation
-Since the Profit Sharing Tokens ("PSTs") are owned for the 200 year endowment of the data, and can produce dividends for the duration if they receive large amounts of attention consistently, they have the potential to be quite valuable, and the owner may desire to sell them, lend them, or otherwise liquidate them in the short term. In the event that this occurs, they have all the properties of traditional non-fungible tokens, and the (Verto PST exchange)[verto.exchange] already supports trading for this format of digital asset. This has the potential to create a futures market for attention, which could potentially result in very interesting insights and predictive models, since it effectively brings market forces to bear on the process of content value appraisal.  
+Since the Profit Sharing Tokens ("PSTs") are owned for the 200 year endowment of the data, and can produce dividends for the duration if they receive large amounts of attention consistently, they have the potential to be quite valuable, and the owner may desire to sell them, lend them, or otherwise liquidate them in the short term. In the event that this occurs, they have all the properties of traditional non-fungible tokens, and the [Verto PST exchange](verto.exchange) already supports trading for this format of digital asset. This has the potential to create a futures market for attention, which could potentially result in very interesting insights and predictive models, since it effectively brings market forces to bear on the process of content value appraisal.  
 
 <img class="sectionDivider" src="/assets/images/koi-divider.png">
 
@@ -70,4 +70,4 @@ As well as the core function of rewarding attention within the Arweave network, 
 # Get Involved
 We, together with the Arweave network, are building the library of the future, and it is completely open to anyone who wants to help. No longer will power or censorship dominate the pages of history, but it's up to each of us to help in this process. We are also working on building tools to make it easier to browse this permanent archive, and would love to have your help, if you're up to the challenge. 
 
-Email (hello@openkoi.com)[mailto:hello@openkoi.com] or (click here to join our discord channel)[https://discord.gg/nFXBAy6FXH] and let us know what you think.
+Email [hello@openkoi.com](mailto:hello@openkoi.com) or [click here to join our discord channel](https://discord.gg/nFXBAy6FXH) and let us know what you think.
