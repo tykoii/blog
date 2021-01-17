@@ -22,12 +22,12 @@ A crucial part of modern democracy is polling and census data. The KOI protocol 
 The existing internet already contains a wide range of subject-matter, reference material, and historical records. The process of retrieving this information, uploading it to the permaweb, and then cataloguing and tagging it's contents will immediately provide value, and any party seeking to gather existing web data can utilize this decentralized commons to economically and efficiently gather data.
 
 ## Indexing And Staking
-The value of taste in good information cannot be understated. As personal and decentralized search agents gain popularity (i.e. The Graph, Fetch.ai, or PUBLC) it is becoming clear that there will soon be a market for a reliable map of the web, and that it will likely be a public good. KOI tasks can be set to incentivize community members to crawl a domain and map or map the structure of an API for future tasks to consume.
+The value of taste in good information cannot be understated. As personal and decentralized search agents gain popularity (i.e. The Graph, Fetch.ai, or PUBLC) it is becoming clear that there will soon be a market for a reliable map of the web, and that it will likely be a public good. KOI tasks can be set to incentivize community members to crawl a domain and record metadata, or even map the structure of an API for future tasks to consume.
 
 *All data gathered by the KOI Network will be stored on the permaweb forever, ensuring that future generations have an accurate rearview mirror.*
 
 # The KOI Profit-Sharing Community
-Arweave's native contract language ("Smartweave") is executed asynchronously by the user, and the results are then stored at a very small cost to the Arweave Because of this, the throughput of the network is limited by the number of users, rather than the number of mining nodes, or their individual capacity.
+Arweave's native contract language ("Smartweave") is executed asynchronously by the user, and the results are then stored at a very small "storage" cost relative to other public blockchains. Because of this, the throughput of the network is limited by the number of users, rather than the number of mining nodes, or their individual capacity.
 
 ## Participants
 The KOI token marketplace will exist as a single contract within this ecosystem, and will enable the interactions of human and machine agents completing KOI Archival tasks. 
@@ -36,7 +36,7 @@ The KOI token marketplace will exist as a single contract within this ecosystem,
 The first and most important element of the KOI network is the ability for anyone to set up a wallet, at no cost to themselves, and begin earning KOI tokens. Human feedback is the most valuable commodity in the world, and KOI will provide straightforward platforms for participants to engage and be fairly rewarded.
 
 ### Machine Agents
-Some tasks are either too tedious or too complex to be done manually. In these cases, we allow KOI holders to stake their tokens and run an automated strategy. In these cases, the machine agent is held to the same standard as a human agent would be, but may require a larger stake to operate.
+Some tasks are either too tedious or too complex to be done manually. In these cases, we allow KOI holders to stake their tokens and run an automated strategy. The machine agent is held to the same standard as a human agent would be, but may require a larger stake to operate.
 
 ## Identifying Malicious Behaviour
 Because the Arweave is permenantly visible to all parties, the result of a given survey or data gathering excercise can be calculated and cached by each party independantly. As a result, if bad actors are identified, even many years later, the record can be corrected almost immediately to remove their misdirection. 
