@@ -9,7 +9,7 @@ Starting in March, 1000.0000000000 KOI will be created and distributed to the re
 
 As more and more people earn KOI, we will also expand the ability to request verifiable tasks that create data, thereby creating an interwoven incentive mechanism to support the longterm growth of valuable content on the web. 
 
-***The KOI Profit Sharing Community can be expanded to incentivise content creation anywhere where data can be stored immutably, but will begin as an incentive mechanism to reward contributions to the Arweave Permaweb.***
+***The KOI Profit Sharing Community can be expanded to incentivise content creation anywhere where data can be stored immutably, and is beginning as an incentive mechanism to reward contributions to the Arweave Permaweb.***
 
 <img class="sectionDivider" src="/assets/images/koi-divider.png">
 
