@@ -52,5 +52,3 @@ Owners of Ethereum-based NFTs will still retain ownership of their original digi
 If you're an NFT creator or collector and you want to show off your stuff, consider this your chance to prove that your NFT is the coolest thing on the internet. Send us an email at <a href="mailto:hello@openkoi.com">hello@openkoi.com</a> and we'll help you get set up. 
 
 The contest starts in two weeks, so don't wait! Spots are limited. 
-
-<i>Disclaimer: Anyone found to be falsely registering NFTs that do not belong to them will have their rewards confiscated and transfered to the rightful owner.</i>
