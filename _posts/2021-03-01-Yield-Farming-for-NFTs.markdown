@@ -4,7 +4,7 @@ title:  "Yield Farming for NFTs"
 categories: [ Announcement ]
 image: assets/images/blog/vitalik-the-clown.png
 ---
-<i>Stay tuned for our upcoming NFT portal launch (sign up for the mailing list)[https://xyz.us2.list-manage.com/subscribe?u=9842d27bd152b5314774b184c&id=0d4d6aff75].</i>
+<i>Stay tuned for our upcoming NFT portal launch [sign up for the mailing list](https://xyz.us2.list-manage.com/subscribe?u=9842d27bd152b5314774b184c&id=0d4d6aff75).</i>
 
 # New Revenue Streams
 Open Koi provides NFTs with new income streams while expanding and optimizing NFT capabilities via “Koi Assets”. 
@@ -28,4 +28,4 @@ Is your NFT for sale? You will earn $KOI, forever.
 
 The ability to monetize authentic digital creations based on attention has exciting implications. We can’t wait to show you.
 
-Visit our (Discord)[https://discord.gg/nFXBAy6FXH] to stay involved or contribute.
+Visit our [Discord](https://discord.gg/nFXBAy6FXH) to stay involved or contribute.
