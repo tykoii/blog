@@ -2,7 +2,8 @@
 layout: post
 title:  "Yield Farming for NFTs"
 categories: [ Announcement ]
-image: assets/images/blog/yield-farming-nfts.jpg
+image: assets/images/yield-farming-nfts.jpg
+---
 
 # New Revenue Streams
 Open Koi provides NFTs with new income streams while expanding and optimizing NFT capabilities via “Koi Assets”. 
