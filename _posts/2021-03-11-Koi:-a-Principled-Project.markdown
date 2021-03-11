@@ -5,7 +5,7 @@ categories: [ Announcement ]
 image: assets/images/principled-protocol.jpg
 ---
 
-### Proof of Principle
+## Proof of Principle
 Koi, although in its infancy, has changed shape many times. Iteration is necessary as we push for strategic capital and align with our [ecosystem partners](https://www.arweave.org/). Other changes manifested when new opportunities within the blockchain space were quickly addressed. [The effort](https://blog.openkoi.com/Yield-Farming-for-NFTs/) better positions the Koi Protocol and its applications for meaningful adoption. All of this adaptive progress is occurring alongside the development of the Koi testnet.
 
 Despite this rapid change, Koi remains true to its founding principles. 
