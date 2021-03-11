@@ -4,6 +4,7 @@ title:  "Koi: a Principled Project"
 categories: [ Announcement ]
 image: assets/images/principled-protocol.jpg
 ---
+
 ### Proof of Principle
 Koi is a project in early infancy, but that has not prevented it from changing shape many times over as the team pushes for strategic capital, alignment with ecosystem partners, addresses shifting dynamics in the blockchain space, and develops the Koi protocol testnet .
 
