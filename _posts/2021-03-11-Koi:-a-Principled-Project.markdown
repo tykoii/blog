@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Koi: a Principled Project"
+title:  "Koi: A Principled Project"
 categories: [ Announcement ]
 image: assets/images/principled-protocol.jpg
 ---
