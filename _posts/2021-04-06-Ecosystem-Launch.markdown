@@ -10,7 +10,7 @@ image: assets/images/koi.rock.jpg
 The era of NFTs is upon us. Koi.rocks takes advantage of key Koi Protocol capabilities in order to provide novel functionalities for content creators in a web 3.0 environment.
 
 ## Atomic NFTs & Permanent Storage
-Thanks to the [Arweave](arweave.org) permaweb, koi.rocks makes use of permanent storage in order to facilitate the creation of Atomic NFTs— an NFT where [the asset and its content](https://arweave.medium.com/permanent-nft-storage-on-the-arweave-network-41f38d700a2d) exist within the same on-chain location. Minting or transferring digital creations to [koi.rocks](koi.rocks) ensures that the NFT is a _complete_ asset. This means that NFTs hosted on koi.rocks are not subject to the fragility inherent to prevailing platforms (marketplaces). The metadata associated with any koi.rocks-hosted NFT is not at risk of getting disconnected from the ownership contract on the blockchain. This innovation creates a concrete solution for hosting and storing NFTs.
+Thanks to the [Arweave](https://arweave.org) permaweb, koi.rocks makes use of permanent storage in order to facilitate the creation of Atomic NFTs— an NFT where [the asset and its content](https://arweave.medium.com/permanent-nft-storage-on-the-arweave-network-41f38d700a2d) exist within the same on-chain location. Minting or transferring digital creations to [koi.rocks](https://koi.rocks) ensures that the NFT is a _complete_ asset. This means that NFTs hosted on koi.rocks are not subject to the fragility inherent to prevailing platforms (marketplaces). The metadata associated with any koi.rocks-hosted NFT is not at risk of getting disconnected from the ownership contract on the blockchain. This innovation creates a concrete solution for hosting and storing NFTs.
 
 Data and content published from and archived to the Koi protocol are always permanent and immutable. Koi.rocks is the application within the Koi ecosystem that demonstrates these qualities. Web 3.0 applications must take advantage of permanent storage to solve predominant issues in the current web 2.0 internet. NFTs purport true ownership of creations in a way that allows owners to capture more value from their work. Koi.rocks helps solve issues in hosting these creations so that the qualities which make NFTs valuable remain true over time. 
 
@@ -21,7 +21,7 @@ Beyond the leaderboard, koi.rocks helps cultivate attention by monetizing each N
 
 Allowing NFT creators to earn on the amount of attention given to their projects further cements the asset qualities of koi.rocks hosted NFTs. Attention rewards via KOI are a new income stream _on top_ of infinite and customizable transaction emissions made possible by [ERC-721](https://eips.ethereum.org/EIPS/eip-721). 
 
-This experiment furthers the value capture innovations within the new web. Imagine your favorite artist receiving revenue every time you viewed his or her work [within a free gallery](koi.rocks). 
+This experiment furthers the value capture innovations within the new web. Imagine your favorite artist receiving revenue every time you viewed his or her work [within a free gallery](https://koi.rocks). 
 
 ![Kevin Abosch](/assets/images/kevinabosch.png "Kevin Abosch")
 
@@ -35,8 +35,8 @@ Koi.rocks leverages PoRT to maintain the integrity of attention rewards and lead
 ![Proof of Real Traffic](/assets/images/blog/port.png "Proof of real traffic makes it possible to verify attention after the fact!")
 
 ## Koi
-Early implementation of the [Koi](www.openkoi.com) protocol has generated open-source tools which help to build a more trustworthy store of human knowledge. Koi.rocks is the first public deployment of various technologies made available through this process. 
+Early implementation of the [Koi](https://openkoi.com) protocol has generated open-source tools which help to build a more trustworthy store of human knowledge. Koi.rocks is the first public deployment of various technologies made available through this process. 
 
 Koi.rocks takes advantage of the [Permaweb](https://www.arweave.org/technology#permaweb), Attention Rewards, and Proofs of Real Traffic, in order to incentivize the creation of Atomic NFTs and the use of the Koi protocol by digital creators. It establishes an experiment in the monetization of NFTs with new income streams provided by attention rewards, and secures the integrity of the system with PoRT. 
 
-_Try [koi.rocks](koi.rocks) today, and get involved with our [community](https://discord.gg/8Vmhj6VHsm) to stay up to date on the latest developments and progress. Consider running a node [here](https://docs.google.com/forms/d/e/1FAIpQLSduDTdxD3dDOvcbIcKlG7JWOsnDFVZFdLy0J38q_OOzUC3okA/viewform). We are [hiring!](mailto:hello@openkoi.com)_
+_Try [koi.rocks](https://koi.rocks) today, and get involved with our [community](https://discord.gg/8Vmhj6VHsm) to stay up to date on the latest developments and progress. Consider running a node [here](https://docs.google.com/forms/d/e/1FAIpQLSduDTdxD3dDOvcbIcKlG7JWOsnDFVZFdLy0J38q_OOzUC3okA/viewform). We are [hiring!](mailto:hello@openkoi.com)_
