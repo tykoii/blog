@@ -25,7 +25,11 @@ This experiment furthers the value capture innovations within the new web. Imagi
 
 ![Kevin Abosch](/assets/images/kevinabosch.png "Kevin Abosch")
 
-[Pay Attention](https://kevinabosch.com/1111/)
+
+
+Head to [koi.rocks](https://koi.rocks/contents) now to claim your Kevin Abosch orginals! 
+
+To see Kevin's offical website, click [here](https://kevinabosch.com/1111/).
 
 ## Proofs of Real Traffic
 Koi.rocks is the first Koi ecosystem application which makes use of PoRT, or [Proofs of Real Traffic](https://openkoi.com/koi-protocol.pdf). Proofs of Real Traffic ensure that gateway tracking and subsequent attention tracking enabled by the Koi protocol are not taken advantage of by bad actors. NFTs hosted on koi.rocks are given “attention” when clicked. Gateway tracking via traffic log verification allows for the correct recording of attention given to hosted content. PoRT ensures that this system is not disrupted through spamming the network, or collusion of protocol participants in pursuit of disproportionate rewards. The intention is to gauge real traffic flowing into the gateways based on genuine interest in information hosted via the Koi protocol. 
