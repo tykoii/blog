@@ -22,3 +22,5 @@ It is a tale as old as time. We think we are consumers, but in fact we are the p
 Koi is a decentralized ecosystem that gives ownership back to creators and rewards its users for attention instead of exploiting them. Developers build on Koi, and creators receive KOI based on attention.
 
 To top it off, Koi is built on Arweave’s Permaweb, meaning users will never have to worry about their content being taken down or owned by other entities.Take back control with Koi.
+
+Head to [koi.rocks](https://koi.rocks/contents) to upload your NFT and start earning attention rewards now! 
