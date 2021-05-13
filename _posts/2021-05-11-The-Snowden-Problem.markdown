@@ -11,14 +11,16 @@ Possibly one of the biggest problems to come to light was in 2013 when Eric Snow
 
 This event made it crystal clear that control over a population’s personal data is not a power which the government will soon cede.
 
-Many users of Web2 aren't bothered by this issue or are quite possibly ignorant to it. A common response to the mass collection of personal data is “I have nothing to hide”, though in reality it is not about what anyone has to hide but rather how a population’s collective data can be used. Hint, it isn’t always to protect you from terrorism.
+Many Web2 users don't know about this issue and most who do aren't bothered by it. A common response to the mass collection of personal data is, “I have nothing to hide," though in reality it is not about what anyone has to hide but rather how a population’s collective data can be used. Hint, it isn’t always to protect you from terrorism.
 
-Big tech companies like Google, Facebook and Instagram exploit users through their terms and conditions where we blindly agree to have our information minded. As you scroll through these platforms, like posts and make search queries you are constantly being data-mined and profiled. This is by design.
+Big tech companies like Google, Facebook and Instagram exploit users through their terms and conditions where we blindly agree to have our information mined. As you scroll through these platforms, like posts and make search queries you are constantly being data-mined and profiled. This is by design.
 
-It is a tale as old as time. We think we are consumers, but in fact we are the product. Even when “creating” on these networks, value is being extracted from your presence on the site. Value which you will not see.
+It is a tale as old as time. We think we are consumers, but in fact we are the product. Even when “creating” on these networks, value is being extracted from your presence on the site. Value which you will never see.
 
-*How can we combat this problem? The answer: Koi*
+How can we combat this problem? *The answer: Koi*
 
-Koi is a decentralized ecosystem that gives ownership back to creators and rewards its users for attention instead of exploiting them. Developers build on Koi, and creators receive KOI based on attention.
+Koi is a decentralized ecosystem that gives ownership back to creators, rewarding users for their attention rather than exploiting them. Developers build on Koi, and creators receive KOI based on attention. 
 
-To top it off, Koi is built on Arweave’s Permaweb, meaning users will never have to worry about their content being taken down or owned by other entities.Take back control with Koi.
+To top it off, Koi is built on Arweave’s permaweb, meaning users never have to worry about their content being taken down or owned by other entities. Take back control with Koi.
+
+Head to [koi.rocks](https://koi.rocks/contents) to upload your NFT and start earning attention rewards now! 
