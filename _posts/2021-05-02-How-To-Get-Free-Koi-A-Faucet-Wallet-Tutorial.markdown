@@ -22,6 +22,7 @@ After we submit the keyfile, we must do a Twitter verification process (Just lik
 Next, click “Tweet to Verify.” A Twitter popup will appear, click “Tweet” to confirm. You will likely be logged in already from the previous Twitter confirmation.
 ![get free crypto by downloading faucet!](/assets/images/blog/step3_faucet.png)
 
+
 After tweeting, click “Get KOI.” You will receive 5 free KOI and be able to upload 5 NFTs onto the Koi Portal. Be sure to sign up to recieve our newsletter where your NFT could be featured and start earning KOI whenever your content is veiwed!
 
 
