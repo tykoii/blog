@@ -38,6 +38,6 @@ You’ll then get a success message and you’ll have a bit of AR in your new Ar
 
 Now let’s head over to the [KOI Faucet Tutorial](/How-To-Get-Free-Koi-A-Faucet-Wallet-Tutorial/) to get some KOI tokens.
 
-*If you already have KOI tokens, head right over to register your content on [Koi.rocks](https://koi.rocks/contents)*
+*If you already have KOI tokens, head right over to register your content on [Koi.rocks](https://koi.rocks/contents)* 
 
 
