@@ -2,7 +2,7 @@
 layout: post
 title:  "I am the product"
 categories: [ Announcement ]
-image: assets/images/blog/I-am-the-product-image1.jpg
+image: assets/images/blog/i-am-the-product-cover2.jpeg
 ---
 
 # What you do online is an extension of yourself...
