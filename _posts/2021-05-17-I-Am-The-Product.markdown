@@ -31,7 +31,7 @@ Koi’s mission is to give power back to the people, allowing everyone to earn t
 
 Join the revolution and pre-register to run a node today [here](https://docs.google.com/forms/d/e/1FAIpQLSduDTdxD3dDOvcbIcKlG7JWOsnDFVZFdLy0J38q_OOzUC3okA/viewform).
 
-To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents) or check out our [tutorial](https://blog.openkoi.com/An-Arweave-faucet-tutorial/) to learn how.
+To start earning attention rewards on your NFTs, register them now at [koi.rocks](https://koi.rocks/contents)
 
 Continue the conversation and join Koi's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5) channel, Koi's [Discord](https://discord.gg/zByqXPGEWy) and follow us on [Twitter](https://twitter.com/open_koi). 
 
