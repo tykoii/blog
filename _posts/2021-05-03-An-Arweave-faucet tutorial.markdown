@@ -22,11 +22,11 @@ Next you create an AR wallet by selecting the checkbox (again) and clicking “D
 Save the keyfile somewhere safe! Keeping a copy of the file on 2-3+ devices is recommended because no one can retrieve or recover it for you if you lose it. All your tokens would disappear with the wallet.
 
 *Click “Next.”*
-![get free crypto by downloading AR faucet](/assets/images/blog/Step3_ARfaucet.png)
+![get free crypto by downloading AR faucet](/assets/images/blog/step3_ARfaucet.png)
 
 Now you will have to verify that you are a real person by tweeting from an active Twitter account. Click “Open Tweet Pop-Up.” The pop-up may prompt you to log in to Twitter.
 
-![get free crypto by downloading AR faucet](/assets/images/blog/Step4_ARfaucet.png)
+![get free crypto by downloading AR faucet](/assets/images/blog/step4_ARfaucet.png)
 
 If you’re a pretty active tweet-er, you’ll already be logged in and all you have to do is click “Tweet” in the Twitter pop up, then “Next” in the Arweave faucet flow.
 
@@ -38,6 +38,6 @@ You’ll then get a success message and you’ll have a bit of AR in your new Ar
 
 Now let’s head over to the [KOI Faucet Tutorial](/How-To-Get-Free-Koi-A-Faucet-Wallet-Tutorial/) to get some KOI tokens.
 
-*If you already have KOI tokens, head right over to register your content on [Koi.rocks](https://koi.rocks/contents)*
+*If you already have KOI tokens, head right over to register your content on [Koi.rocks](https://koi.rocks/contents)* 
 
 
