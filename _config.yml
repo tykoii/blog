@@ -1,6 +1,6 @@
 # Site
-name: 'GoldFish'
-description: GoldFish keep track of what's on the web. Try today.
+name: 'Koi'
+description: Koi keep track of what's on the web. Try today.
 logo: 'assets/images/goldfish.svg'
 favicon: 'assets/images/goldfish.svg'
 baseurl: ''
