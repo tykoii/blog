@@ -15,7 +15,7 @@ Like me, a lot of people still have this mindset. When we go on our phones and s
 
 What you do online is an extension of yourself, so what you search, like, post,  and share is essentially a meta version of you. Big tech companies (like Facebook) are centralized and their network runs on company servers, meaning that all your information is stored in one place and only they have the key. 
 
-<img src="/assets/images/blog/I-am-the-product-image2.jpeg">
+![I am a product - Koi blog](/assets/images/blog/I-am-the-product-image2.jpeg)
 
 What does this mean? It means that all your data is being collected, your habits are being studied, and a single entity essentially knows your every move. In a time when knowledge is power, this type of control is more relevant than ever. 
 
@@ -27,10 +27,12 @@ Why do we give so much power to centralized media companies when we should benef
 
 Koi’s mission is to give power back to the people, allowing everyone to earn the value they deserve with no central ruling authority. The Koi protocol is leveraged by Arweave so all information is permanent and runs on a network of nodes ensuring the ecosystem is transparent, trustworthy, and fair. These nodes can be run by anyone— equitable access to running nodes means the system is truly distributed.
 
-*Better media makes a better world; decentralization lets you own it.*
+**Better media makes a better world; decentralization lets you own it.**
 
-Join the revolution and pre-register to run a node today [here](https://docs.google.com/forms/d/e/1FAIpQLSduDTdxD3dDOvcbIcKlG7JWOsnDFVZFdLy0J38q_OOzUC3okA/viewform){:target="_blank"}.
 
-To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents){:target="_blank"}
+Join the revolution and pre-register to run a node [here](https://docs.google.com/forms/d/e/1FAIpQLSduDTdxD3dDOvcbIcKlG7JWOsnDFVZFdLy0J38q_OOzUC3okA/viewform)
 
-Continue the conversation and join Koi's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="_blank"} channel, Koi's [Discord](https://discord.gg/zByqXPGEWy){:target="_blank"} and follow us on [Twitter](https://twitter.com/open_koi){:target="_blank"}. 
+To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents) or check out our [tutorial](https://blog.openkoi.com/An-Arweave-faucet-tutorial/) to learn how.
+
+Continue the conversation and join Koi's official community [telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5) channel, Koi's [Discord](https://discord.gg/zByqXPGEWy), and follow us on [Twitter](https://twitter.com/open_koi). 
+
