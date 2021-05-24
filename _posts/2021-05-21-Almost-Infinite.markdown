@@ -31,7 +31,7 @@ Oddly enough, this zeitgeist is demonstrated remarkably through sources such as 
 
 *This problem of incentivizing the creative commons is a modern form of the gatekeeping authoritarianism described earlier.* 
 
-The difficulty of publishing and maintaining knowledge is a barrier to those products and services which create value for the masses but do not employ exploitative value-capture in the forms of ads, data mining or pay-walls, for example. The real problem is that it is not possible to build a system in which builders are fairly rewarded, because usually there are start-up costs that need to be recouped. This time, we’ve got that part worked out. The rest belongs to those who build - with more available each day.
+In web 2.0, it's hard to make good web apps/content because of high startup costs, high subscription fees, and the corresponding need to monetize. The need to monetize also drives creators to schemes like ads or paywalls, that push users away and make everyone's experience worse. Koi flattens the barrier to entry with our framework and investment in good templates. We have no subscription or gas fees, and lastly, builders are directly compensated for good content.
 
 ![Opensea blog tutorial](/assets/images/blog/almostinfiniteblog1.png)
 
