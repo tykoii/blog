@@ -18,7 +18,7 @@ This article and subsequent posts will make mention of the concepts of ‘foreve
 
 To understand the value of decentralized media, it helps to explore the periods when permanence was shattered. From the elimination of the Library of Alexandria to the purges and book burnings of populist leaders throughout the ages, the destruction of knowledge has always been a clear force in history. 
 
-*Written words are pretty new technology, but there have been so many major book burnings that there’s a whole Wikipedia page - [check it out](https://en.wikipedia.org/wiki/List_of_book-burning_incidents!){:target="_blank"}* 
+*Written words are pretty new technology, but there have been so many major book burnings that there’s a whole Wikipedia page - [check it out](https://en.wikipedia.org/wiki/List_of_book-burning_incidents){:target="_blank"}* 
 
 In each case, seemingly permanent structures (empires, enormous buildings, and intergenerational organizations) were toppled entirely, and the knowledge they safeguarded was lost. Likewise, centralized powers have also acted as gatekeepers and oppressors, preventing communities from sharing their knowledge, or in some cases, actively destroying that knowledge. 
 
