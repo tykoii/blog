@@ -23,11 +23,12 @@ When spending habits, behaviors, likes, and dislikes are all in one place it bec
 
 **How can we fix this problem?**
 
-Why do we give so much power to centralized media companies when we should benefit from the attention generated on their platform? Why do these companies have such a vast amount of our data? Why do we allow them to exploit us? 
+Why do we give so much power to centralized media companies when we should benefit from the attention generated on their platforms? Why do these companies have such a vast amount of our data? Why do we allow them to exploit us? 
 
 Koi’s mission is to give power back to the people, allowing everyone to earn the value they deserve with no central ruling authority. The Koi protocol is leveraged by Arweave so all information is permanent and runs on a network of nodes ensuring the ecosystem is transparent, trustworthy, and fair. These nodes can be run by anyone— equitable access to running nodes means the system is truly distributed.
 
 **Better media makes a better world; decentralization lets you own it.**
+
 
 Join the revolution and pre-register to run a node [here](https://docs.google.com/forms/d/e/1FAIpQLSduDTdxD3dDOvcbIcKlG7JWOsnDFVZFdLy0J38q_OOzUC3okA/viewform)
 
