@@ -2,7 +2,7 @@
 layout: post
 title:  "What is the attention economy?"
 categories: [ Announcement ]
-image: assets/images/blog/Koi-attention-economy-blog-cover.jpeg
+image: /assets/images/blog/Koi-attention-economy-blog-cover.jpeg
 ---
 
 # Your attention has value.
