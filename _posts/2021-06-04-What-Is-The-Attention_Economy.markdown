@@ -41,3 +41,4 @@ Pre-register today to run a [node](https://openkoi.com/downloads/){:target="_bla
 To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents){:target="_blank"} or check out our [tutorial](https://blog.openkoi.com/An-Arweave-faucet-tutorial/){:target="_blank"} to learn how.
 
 Continue the conversation and join Koi's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5){:target="_blank"} channel, Koi's [Discord](https://discord.gg/zByqXPGEWy){:target="_blank"}*, and follow us on [Twitter](https://twitter.com/open_koi){:target="_blank"}*. 
+
