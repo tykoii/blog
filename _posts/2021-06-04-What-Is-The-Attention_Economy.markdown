@@ -17,7 +17,7 @@ Information is abundant, attention is scarce. We can get information on almost a
 
 ![Koi attention economy blog](/assets/images/blog/Attention-economy-koi-blog.jpeg)
 
-Suddenly, you don’t recognize or care about half the posts on your facebook feed. Everyone on instagram is peddling some scam trying to get your credit card detials, rather than actually useful health advice. *Check out the ["I am the product"](https://blog.openkoi.com/I-Am-The-Product/){:target="_blank"} blog post*. The problem isn’t just that users should be compensated for the value they create through their content and attention, but the incentive structure as a whole needs to change.
+Suddenly, you don’t recognize or care about half the posts on your facebook feed. Everyone on instagram is peddling some scam trying to get your credit card details, rather than actually useful health advice. *Check out the ["I am the product"](https://blog.openkoi.com/I-Am-The-Product/){:target="_blank"} blog post*. The problem isn’t just that users should be compensated for the value they create through their content and attention, but the incentive structure as a whole needs to change.
 
 # “Ads and data tracking make using web products feel bad”
 
