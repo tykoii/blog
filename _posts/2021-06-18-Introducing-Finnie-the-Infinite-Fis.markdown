@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducing Finnie, the Infinite Fish"
 categories: [ Announcement ]
-image: assets/images/blog/WELCOMEFINNIE_TWITTERBLOG.png
+image: assets/images/blog/WELCOMEFINNIE_TWITTTERBLOG.png
 ---
 
 # The Finnie Wallet is your new browsing companion
