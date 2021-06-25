@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Introducing Finnie, the Infinite Fish"
-categories: [ Announcement ]
+title: "Introducing Finnie, the Infinite Fish"
+categories: [Announcement]
 image: assets/images/blog/WELCOMEFINNIE_TWITTTERBLOG.png
 ---
 
@@ -13,7 +13,7 @@ Koii was founded on fairness, trust, and one immense objective: to give creators
 
 Regardless of your role in the Koii ecosystem, Finnie will help guide you as you browse the internet. They will help track the attention you give to Koii-registered content anywhere on the internet, and keep all the media you register with Koii in one spot. That means all your NFTs are safe with Finnie in your browser extension and you will always be able to see the content you own.
 
-Because we are introducing Finnie, we thought it would be a good time to share the values and ideals that are driving Koii’s innovation. 
+Because we are introducing Finnie, we thought it would be a good time to share the values and ideals that are driving Koii’s innovation.
 
 **We believe that the future of the internet is quality content freely available to anyone, not stuck behind paywalls or unskippable ads, and where already-wealthy companies aren’t profiting from your personal data.**
 
@@ -50,9 +50,9 @@ We firmly believe that game-changing ideas can come from anywhere, and anyone ca
 
 **Accessibility**
 
-Accessibility is often used as a catch-all for “We care about people!!” While we definitely do care about people (that’s why we’re doing this), we see accessibility in a bigger scope. We are actively and constantly working to make our products more usable for people of all abilities. **The transparent peer-to-peer information infrastructure** we are building has the potential to reshape how we interact with people all over the world. This is how we plan to deliver equitable access to information everywhere. 
+Accessibility is often used as a catch-all for “We care about people!!” While we definitely do care about people (that’s why we’re doing this), we see accessibility in a bigger scope. We are actively and constantly working to make our products more usable for people of all abilities. **The transparent peer-to-peer information infrastructure** we are building has the potential to reshape how we interact with people all over the world. This is how we plan to deliver equitable access to information everywhere.
 
-Additionally, we started the Koi Foundation to help people with great ideas build innovative new projects on Koi, regardless of access to other funding. [Apply for a Koii Grant here](https://docs.google.com/forms/d/e/1FAIpQLSeC9Qyc4lQrKSW6_92knIE_Ko7Kd_z5g1thT0FFD0qsD7HwVw/viewform).
+Additionally, we started the Koii Foundation to help people with great ideas build innovative new projects on Koii, regardless of access to other funding. [Apply for a Koii Grant here](https://docs.google.com/forms/d/e/1FAIpQLSeC9Qyc4lQrKSW6_92knIE_Ko7Kd_z5g1thT0FFD0qsD7HwVw/viewform).
 
 ![koii is ownership](/assets/images/blog/ownership.png)
 
@@ -74,8 +74,8 @@ A different approach to sustainability relates to the ad economy. Currently, the
 
 Join us on our journey to get creators get paid for their work, and allow them to keep making more work that people love. Finnie will be there by your side to help to keep Web 3.0 moving in the right direction.
 
-Find Koii on our  [Twitter](https://twitter.com/koii_network), [Discord](https://discord.gg/zByqXPGEWy), [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5), or sign up for our [weekly newsletter](https://bit.ly/3oni4VL). If you’re interested in investing, get on the [Investor Whitelist](https://docs.google.com/forms/d/e/1FAIpQLSd2SmUm8pr6RN4hGk1nSM_LsZyUQmxQhoRXE9lrt-oNRn0xHg/viewform?usp=sf_link).
+Find Koii on our [Twitter](https://twitter.com/koii_network), [Discord](https://discord.gg/zByqXPGEWy), [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5), or sign up for our [weekly newsletter](https://bit.ly/3oni4VL). If you’re interested in investing, get on the [Investor Whitelist](https://docs.google.com/forms/d/e/1FAIpQLSd2SmUm8pr6RN4hGk1nSM_LsZyUQmxQhoRXE9lrt-oNRn0xHg/viewform?usp=sf_link).
 
 To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents) or check out our [tutorial](https://blog.openkoi.com/An-Arweave-faucet-tutorial/) to learn how.
- 
+
 **Better media makes a better world; decentralization lets you own it.**
