@@ -7,7 +7,7 @@ image: assets/images/blog/BlogPost-KOIwallet.jfif
 
 # Free KOII, coming right up! A KOII faucet tutorial
 
-If you already have an [Arweave Wallet](https://blog.openkoi.com/An-Arweave-faucet-tutorial/), you’re in the right place to grab some free KOII. If you don’t have an Arweave-compatible wallet yet, head on over to our Faucet. If you already have KOII, you can skip ahead to the [upload process](https://koi.rocks/register-content).
+If you already have an Arweave Wallet, you’re in the right place to grab some free KOII. If you don’t have an Arweave-compatible wallet yet, head on over to our Faucet. If you already have KOII, you can skip ahead to the [upload process](https://koi.rocks/register-content).
 
 [Click here to go to the KOII faucet.](https://koi.rocks/faucet?step=0)
 
