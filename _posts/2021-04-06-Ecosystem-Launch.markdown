@@ -5,7 +5,7 @@ categories: [Announcement, Vision]
 image: assets/images/koi.rock.jpg
 ---
 
-[Koii.rocks](koi.rocks) is a decentralized web application (DApp) powered by [Koii](https://openkoi.com/whitepaper.pdf), a protocol for information retrieval and publishing on the new web. Koii.rocks exhibits technologies made possible by the [Koii Protocol](https://openkoi.com/koi-protocol.pdf).
+[Koi.rocks](https://koi.rocks) is a decentralized web application (DApp) powered by [Koii](https://koii.network){:target="\_blank"} , a protocol for information retrieval and publishing on the new web. Koii.rocks exhibits technologies made possible by the [Koii Protocol](https://koii.network/koi-protocol.pdf){:target="\_blank"} .
 
 The era of NFTs is upon us. Koii.rocks takes advantage of key Koii Protocol capabilities in order to provide novel functionalities for content creators in a web 3.0 environment.
 
