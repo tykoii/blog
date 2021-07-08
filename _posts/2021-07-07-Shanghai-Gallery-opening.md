@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shanghai Gallery opening party"
-categories: [Automation]
+categories: [Announcement]
 image: assets/images/blog/shanghai-gallery.png
 ---
 
