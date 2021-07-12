@@ -7,7 +7,7 @@ image: assets/images/blog/shanghai-gallery.png
 
 # Shanghai Gallery Unveiled
 
-The grand opening of the Shanghai Gallery was unveiled today via live stream with guests such as Cao Yin, Kevin Absouch, Felicia Che, Tang Han, and Guo Cheng. If you missed the event you can catch the recap [here](https://www.bilibili.com/video/BV1554y1n7rU).
+The grand opening of the Shanghai Gallery was unveiled today via live stream with guests such as Cao Yin, Kevin Abosch , Felicia Che, Tang Han, and Guo Cheng. If you missed the event you can catch the recap [here](https://www.bilibili.com/video/BV1554y1n7rU).
 
 The opening exhibit featured the “1111” Collection by artist Kevin Abosch who spoke during the event. He mentions that he originally saw the pieces being physical works, but that he had to change his vision due to the pandemic— the pieces became virtual.
 
