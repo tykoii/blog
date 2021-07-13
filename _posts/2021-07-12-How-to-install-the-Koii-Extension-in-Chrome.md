@@ -15,7 +15,7 @@ To download the extension, go to [koii.network/downloadFinnie](https://koii.netw
 
 ![Install Finnie - Koii blog](/assets/images/blog/installfinnie/step1.png)
 
-After you have downloaded the file, go to Chrome Settings using three dots on the top right corner of your browser. You can also type [chrome://settings/](chrome://settings/) into the browser bar for the same result. (or skip the next two steps and just [click here](chrome://extensions/)
+After you have downloaded the file, go to Chrome Settings using three dots on the top right corner of your browser, or skip the next two steps and just type "chrome://extensions/" into your browser.
 
 ![Install Finnie - Koii blog](/assets/images/blog/installfinnie/step2.png)
 
