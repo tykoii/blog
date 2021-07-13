@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to install the Koii extension in Chrome"
+title: "How to install the Koii Extension in Chrome"
 categories: [Announcement]
 image: assets/images/blog/browser-extension.jpeg
 ---
