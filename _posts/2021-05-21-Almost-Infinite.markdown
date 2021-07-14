@@ -48,7 +48,7 @@ Generate something harmful for the community, and you will find it more difficul
 
 **The Shared Resource**
 
-One of the primary goals of the Koii network is to create a public, shared resource by bringing together thousands of personal devices (you can register for the Koii Chrome extension [here](https://docs.google.com/forms/d/e/1FAIpQLScRQUBaLQBugGi-dFvu1F2q4j-cOji2fOHQczLeyWTq_LIobw/viewform){:target="\_blank"}), each with a tiny amount of computational resources, to create a single communal resource, the Koii Network. The Network can be used to power web projects with minimal barrier to entry, and with the ideas that benefit the community most rising to the top.
+One of the primary goals of the Koii network is to create a public, shared resource by bringing together thousands of personal devices (you can add the Koii Chrome extension [here](https://chrome.google.com/webstore/detail/finnie/cjmkndjhnagcfbpiemnkdpomccnjblmj){:target="\_blank"}), each with a tiny amount of computational resources, to create a single communal resource, the Koii Network. The Network can be used to power web projects with minimal barrier to entry, and with the ideas that benefit the community most rising to the top.
 
 This is why now is a critical moment. Participating, making YOUR interests heard within the community from day one is crucial to shaping the incentives of the system. This is why we are committed to working with creators first, amplifying the voices that have struggled to be heard, and showcasing the immense value that has been muffled in an old system that rewards exploitation more than talent.
 
