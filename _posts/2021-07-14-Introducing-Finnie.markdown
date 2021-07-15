@@ -9,7 +9,7 @@ The Finnie Wallet is the newest tool from the Koii Network, where you can create
 
 There are a few really cool features with the Finnie Wallet that make NFTs and digital art more accessible to wider audiences (see this [blog post](https://blog.koii.network/Almost-Infinite/) about Atomic NFTs to learn more):
 - Minting Atomic NFTs is extremely affordable
-- Finnie uses Arweave to store your content forever
+- Finnie uses [Arweave](https://www.arweave.org/) to store your content forever
 - Content posted earns KOII tokens for every view
 - Cross-publish your NFTs to traditional sites like facebook, youtube, or instagram (Coming soon)
 - Create custom galleries and sell your NFTs direct to collectors with 0% commission (Coming soon)
