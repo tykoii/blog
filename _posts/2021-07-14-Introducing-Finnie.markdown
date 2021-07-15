@@ -23,6 +23,8 @@ We’ll cover 4 things in this tutorial. Feel free to skip ahead if you’ve alr
 3. [Get some free KOII](#part-3-get-some-koii)
 4. [Create an NFT](#part-4-create-an-nft)
 
+*Note:* Our friends at Brokenomics made a great video of this tutorial [here](https://www.youtube.com/watch?v=TUt2gZzHM1E).
+
 Let’s get started.
 
 # Part 1: Get Finnie
