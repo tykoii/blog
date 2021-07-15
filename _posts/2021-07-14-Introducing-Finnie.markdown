@@ -7,7 +7,7 @@ image: assets/images/blog/Koi_blogimg_opt4_052120.png
 Hi folks, today is a great day to make NFTs! 
 The Finnie Wallet is the newest tool from the Koii Network, where you can create NFTs in under 1 minute, for less than $0.01. (Setup takes about 2 minutes.)
 
-There are a few really cool features with the Finnie Wallet that make NFTs and digital art more accessible to wider audiences (see this blog post about Atomic NFTs to learn more):
+There are a few really cool features with the Finnie Wallet that make NFTs and digital art more accessible to wider audiences (see this [blog post](https://blog.koii.network/Almost-Infinite/) about Atomic NFTs to learn more):
 - Minting Atomic NFTs is extremely affordable
 - Finnie uses Arweave to store your content forever
 - Content posted earns KOII tokens for every view
