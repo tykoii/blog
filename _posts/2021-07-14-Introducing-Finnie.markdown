@@ -15,7 +15,7 @@ There are a few really cool features with the Finnie Wallet that make NFTs and d
 - Create custom galleries and sell your NFTs direct to collectors with 0% commission (Coming soon)
 - Multiple blockchain networks in one (Coming soon)
 
-These are just a few of our favorite features, more tutorials are coming soon with all the cool things Finnie can help you do!
+These are just a few of our favorite features, more tutorials will be published soon with all the cool things Finnie can help you do!
 
 We’ll cover 4 things in this tutorial. Feel free to skip ahead if you’ve already completed any of the steps.
 1. [Get Finnie (download the extension)](#part-1-get-finnie)
