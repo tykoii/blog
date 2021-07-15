@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finnie: The browser extension tutorial"
+title:  "Finnie: The Browser Extension Tutorial"
 categories: [ Announcement ]
 image: assets/images/blog/Koi_blogimg_opt4_052120.png
 ---
