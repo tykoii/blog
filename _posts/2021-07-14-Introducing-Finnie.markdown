@@ -25,7 +25,9 @@ We’ll cover 4 things in this tutorial. Feel free to skip ahead if you’ve alr
 
 *Note:* Our friends at Brokenomics made a great video of this tutorial [here](https://www.youtube.com/watch?v=TUt2gZzHM1E).
 
-Let’s get started.
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/TUt2gZzHM1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+If you want to read through for yourself, here's the full steps:
 
 # Part 1: Get Finnie
 First, head to the [Google Web Chrome](https://koii.me/Finnieblogpost) store to install the Finnie extension. (You can also find it by searching “Finnie” or “Koii” in the Chrome Store. It is the only result, as of this writing, or [click here](https://koii.me/Finnieblogpost)) 
