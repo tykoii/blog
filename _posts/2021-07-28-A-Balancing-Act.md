@@ -5,7 +5,7 @@ categories: [Announcement]
 image: assets/images/blog/a-balancing-act-cover.png
 ---
 
-## Hey everyone - Colin here, getting some thoughts out and also providing a heads-up to the community about a dilemma that’s been on my mind since before I even joined Koii!
+#### Hey everyone - Colin here, getting some thoughts out and also providing a heads-up to the community about a dilemma that’s been on my mind since before I even joined Koii!
 
 There are plenty of reasons artists are (and should be) skeptical of NFTs. Ethereum (“ETH”) transactions produce a [disgusting amount of carbon emissions](https://www.theverge.com/2021/3/15/22328203/nft-cryptoart-ethereum-blockchain-climate-change){:target="\_blank"} to mint and trade an ETH NFT. The term “Rug-Pulls” has been popularized because many NFTs [don’t actually contain access to the media file itself](https://cointelegraph.com/news/opensea-collector-pulls-the-rug-on-nfts-to-highlight-arbitrary-value){:target="\_blank"}, rather just a link (which, if the link breaks, your NFT is pulled out from under you). Bots like the now-suspended [@tokenizedtweets](https://twitter.com/tokenizedtweets){:target="\_blank"} allowed people to mint others’ words and art, despite not owning any of it.
 
