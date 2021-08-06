@@ -28,7 +28,7 @@ An Atomic NFT combines Smart Contracts and Decentralized Storage to register a s
 The [Atomic NFT Standard](https://atomicnft.com) provides a single common standard along with source code for deploying and creating custom NFTs. The rules are quite broad, and really only intended to ensure interoperability. As the standard evolves, more features can be added to the open-source github docs. Initially, the standard includes the following supported features.
 
 ## General Trading and Ownership
-In order to support use with wallets like Finnie and ArConnect, the standard defines a [balance](https://atomicnft.com/docs/Required-features-of-an-atomic-NFT/Balance/) and [transfer](https://atomicnft.com/docs/Required-features-of-an-atomic-NFT/Transfer/) methods which define how the NFT can be managed by it's owner(s). you can now trade Atomic NFTs on the [Verto Exchange](verto.exchange).
+In order to support use with wallets like Finnie and ArConnect, the standard defines [balance](https://atomicnft.com/docs/Required-features-of-an-atomic-NFT/Balance/) and [transfer](https://atomicnft.com/docs/Required-features-of-an-atomic-NFT/Transfer/) methods which define how the NFT can be managed by it's owner(s). you can now trade Atomic NFTs on the [Verto Exchange](verto.exchange).
 
 ## Dynamic Content
 Because Atomic NFTs can include any content as long as it loads into an HTML element, it is possible to embed dynamic JavaScript functionality based on outside information, as well as images and content in the form of text-based SVGs. The [Narcissus Flower](https://atomicnft.com/docs/Required-features-of-an-atomic-NFT/Dynamic/) is one-such example, which blossoms when it receives more attention. 
