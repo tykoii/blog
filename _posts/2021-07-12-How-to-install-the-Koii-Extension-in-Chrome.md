@@ -35,7 +35,7 @@ And Finnie should be ready to go. To see Finnie in your extension menu, click on
 
 ![Install Finnie - Koii blog](/assets/images/blog/installfinnie/step6.png)
 
-Now you’re ready to go. Be sure to share your feedback with us via [Discord](https://discord.gg/zByqXPGEWy){:target="\_blank"} or by sending us an email at [support@koii.network](mailto:support@koii.network){:target="\_blank"}.
+Now you’re ready to go. Be sure to share your feedback with us via [Discord](https://discord.gg/koii){:target="\_blank"} or by sending us an email at [support@koii.network](mailto:support@koii.network){:target="\_blank"}.
 
 **Better media makes a better world; decentralization lets you own it.**
 

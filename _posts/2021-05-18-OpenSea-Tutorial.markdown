@@ -59,4 +59,4 @@ Join the revolution and pre-register to run a node [here](https://docs.google.co
 
 To start earning attention rewards on your NFTs, register them at [koi.rocks](https://koi.rocks/contents) or check out our [tutorial](https://blog.openkoi.com/An-Arweave-faucet-tutorial/) to learn how.
 
-Continue the conversation and join Koii's official community [telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5) channel, Koii's [Discord](https://discord.gg/zByqXPGEWy), and follow us on [Twitter](https://twitter.com/open_koi).
+Continue the conversation and join Koii's official community [telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5) channel, Koii's [Discord](https://discord.gg/koii), and follow us on [Twitter](https://twitter.com/open_koi).
