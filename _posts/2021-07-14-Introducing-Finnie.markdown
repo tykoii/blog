@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Finnie: The Browser Extension Tutorial"
-categories: [ Announcement ]
+title: "Finnie: The Browser Extension Tutorial"
+categories: [Announcement]
 image: assets/images/blog/Koi_blogimg_opt4_052120.png
 ---
-Hi folks, today is a great day to make NFTs! 
+
+Hi folks, today is a great day to make NFTs!
 The Finnie Wallet is the newest tool from the Koii Network, where you can create NFTs in under 1 minute, for less than $0.01. (Setup takes about 2 minutes.)
 
 There are a few really cool features with the Finnie Wallet that make NFTs and digital art more accessible to wider audiences (see this [blog post](https://blog.koii.network/Almost-Infinite/) about Atomic NFTs to learn more):
+
 - Minting Atomic NFTs is extremely affordable
 - Finnie uses [Arweave](https://www.arweave.org/) to store your content forever
 - Content posted earns KOII tokens for every view
@@ -18,19 +20,21 @@ There are a few really cool features with the Finnie Wallet that make NFTs and d
 These are just a few of our favorite features, more tutorials will be published soon with all the cool things Finnie can help you do!
 
 We’ll cover 4 things in this tutorial. Feel free to skip ahead if you’ve already completed any of the steps.
+
 1. [Get Finnie (download the extension)](#part-1-get-finnie)
 2. [Add a Wallet](#part-2-add-a-wallet)
 3. [Get some free KOII](#part-3-get-some-koii)
 4. [Create an NFT](#part-4-create-an-nft)
 
-*Note:* Our friends at Brokenomics made a great video of this tutorial [here](https://www.youtube.com/watch?v=TUt2gZzHM1E).
+_Note:_ Our friends at Brokenomics made a great video of this tutorial [here](https://www.youtube.com/watch?v=TUt2gZzHM1E).
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/TUt2gZzHM1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="420" src="https://www.youtube.com/embed/TUt2gZzHM1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you want to read through for yourself, here's the full steps:
 
 # Part 1: Get Finnie
-First, head to the [Google Web Chrome](https://koii.me/Finnieblogpost) store to install the Finnie extension. (You can also find it by searching “Finnie” or “Koii” in the Chrome Store. It is the only result, as of this writing, or [click here](https://koii.me/Finnieblogpost)) 
+
+First, head to the [Google Web Chrome](https://koii.me/Finnieblogpost) store to install the Finnie extension. (You can also find it by searching “Finnie” or “Koii” in the Chrome Store. It is the only result, as of this writing, or [click here](https://koii.me/Finnieblogpost))
 
 Click “Add to Chrome” on the right side.
 
@@ -45,9 +49,11 @@ Click on the puzzle piece to show your Chrome extension settings, then click the
 ![Pin the extension so it doesn't disappear](/assets/images/blog/finnieTour/3.png)
 
 # Part 2: Add a Wallet
-Now that we have the extension all ready to go, let’s add a wallet to safely hold all our NFTs! 
+
+Now that we have the extension all ready to go, let’s add a wallet to safely hold all our NFTs!
 
 Click on the Finnie icon in your extensions. You will see a dropdown with three different ways to add a wallet.
+
 1. [Import with a seed phrase](#import-with-a-seed-phrase): if you have an existing AR wallet that you created using a seed phrase, click this one
 2. [Upload a .JSON wallet file](#upload-a-json-wallet-file): if you have an existing wallet that only has a .JSON file, this option is for you
 3. [Create a new wallet](#create-a-new-wallet): if you don’t have an AR wallet yet, this is the place to start!
@@ -57,6 +63,7 @@ Soon, you will be able to import non-Arweave wallets & keys. Sign up for the Koi
 ![The first step is to connect a wallet](/assets/images/blog/finnieTour/4.png)
 
 ## Import with a seed phrase
+
 Click on the first option, “Import with a seed phrase,” then paste your existing seed phrase into the top box.
 Next create a new, secure password. Make sure you keep this password somewhere safe, and don’t share it.
 Confirm your password, then check the “Terms of Service” box (after you read and agree to the Terms, of course).
@@ -65,6 +72,7 @@ Click “Import Wallet.”
 Now you’re all set with your imported wallet! Click “Finish” when you’re ready.
 
 ## Upload a .JSON wallet file
+
 Click on the second option, “Upload a .JSON wallet file.” You have two options here: drag and drop your wallet file from your file explorer or desktop, or click the box to open the file selector.
 
 Once you’ve added your .JSON wallet file, create a new, secure password. Make sure you keep this password somewhere safe, and don’t share it.
@@ -75,7 +83,8 @@ Click “Import Wallet.”
 Now you’re all set with your imported wallet! Click “Finish” when you’re ready.
 
 ## Create a new wallet
-Click on the third option, “Get a new wallet.”  Create a new, secure password. Make sure you keep this password somewhere safe, and don’t share it.
+
+Click on the third option, “Get a new wallet.” Create a new, secure password. Make sure you keep this password somewhere safe, and don’t share it.
 
 Confirm your password, then check the “Terms of Service” box (after you read and agree to the Terms, of course).
 
@@ -91,6 +100,7 @@ After selecting the words, click “Confirm.”
 Congratulations, you have a new wallet that’s ready to create NFTs!
 
 # Part 3: Get some KOII
+
 Already have KOII and AR? Skip ahead to [Create an NFT](#part-4-create-an-nft).
 
 Now that you have a Koii-compatible wallet, you’ll need some KOII tokens (and a tiny bit of AR to pay for storage costs).
@@ -152,5 +162,3 @@ Join the revolution and pre-register to run a node [here](https://docs.google.co
 To start earning attention rewards on your NFTs, register them now at [koi.rocks](https://koi.rocks/contents){:target="\_blank"}
 
 Continue the conversation and join Koii's official community [Telegram](https://t.me/joinchat/OEHs_8T9-8ZhZmU5) channel, Koii's [Discord](https://discord.com/invite/SDwgnjxNEn), and follow us on [Twitter](https://twitter.com/KoiiNetwork).
-
-
