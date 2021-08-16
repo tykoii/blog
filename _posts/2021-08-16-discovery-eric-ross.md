@@ -2,7 +2,7 @@
 layout: post
 title: "D I S C O V E R Y series : Eric Ross"
 categories: [Announcement]
-image: assets/images/blog/Artist-Feature-Eric-Ross-2.png
+image: assets/images/blog/Artist-Feature-Template-Blog-size.png
 ---
 
 ### Who are you?
