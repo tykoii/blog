@@ -24,7 +24,7 @@ The world is made better and more compassionate by having more art in it. People
 With your help, that better world can be a reality.
 
 To learn more about how you can help Koii succeed, [check out this blog](https://blog.koii.network/How-YOU-can-help-Koii/).
-Follow us on [Twitter](<(https://twitter.com/KoiiNetwork){:target="_blank"}>)
+Follow us on [Twitter](https://twitter.com/KoiiNetwork){:target="\_blank"}
 Join our [Discord](https://discord.com/invite/SDwgnjxNEn){:target="\_blank"}
 Get on the [whitelist](https://docs.google.com/forms/d/e/1FAIpQLSetLoXNxlztRjLSQPVWXeQYIoP1Hx5pzcAS5batEPQW45t2DQ/viewform){:target="\_blank"} for our upcoming public token sale
 
