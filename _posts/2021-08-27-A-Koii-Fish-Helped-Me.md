@@ -2,7 +2,7 @@
 layout: post
 title: "A Koii Fish Helped Me to Dump the Internet"
 categories: [Announcement]
-image: assets/images/blog/Blog cover-PoRT-Medium.png
+image: assets/images/blog/Blog-cover-PoRT-Medium.png
 ---
 
 # A Koii Fish Helped Me to Dump the Internet
@@ -49,11 +49,11 @@ There are multiple elements at play in the Koii ecosystem, each has been careful
 Today we may not be able to completely cut the web 2.0 cord but we can rest a little easier knowing that Koii with its two i’s is watching over the internet.
 Right now you can try out the Koii Network by downloading and installing the Finnie wallet from the link below. The Koii [team](https://twitter.com/KoiiNetwork?s=20){:target="\_blank"} will set you up with enough Koii tokens to mint your first couple of NFT’s on the house.
 
-https://medium.com/r/?url=https%3A%2F%2Fkoii.network%2FgetFinnie (Please create a graphic to link to the get finnie page)
+<!-- https://medium.com/r/?url=https%3A%2F%2Fkoii.network%2FgetFinnie (Please create a graphic to link to the get finnie page) -->
 
 What other kinds of web3 alchemy are cooking at the Koii network? Stay up to date on the [Koii Blog](https://blog.koii.network/){:target="\_blank"}. For a one-on-one deep dive with Koii architect and founder Alex Morris check out his recent interview with NFP podcast host DKleine below.
 
-`<iframe src="https://anchor.fm/dkleine/embed/episodes/Alex-Morris-e15c62s/a-a43hf8s" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>`
+<iframe src="https://anchor.fm/dkleine/embed/episodes/Alex-Morris-e15c62s/a-a43hf8s" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 If you enjoyed this article please drop me a line or follow me on twitter [@ty_kroh](https://twitter.com/ty_kroh){:target="\_blank"} for regular updates. See you on the permaweb.
 
