@@ -9,9 +9,6 @@ image: assets/images/blog/Blog-cover-PoRT-Medium.png
 
 ### How Koii is Building the Economic Engine of the Web3 Economy
 
-![image0](/assets/images/blog/08-24-cover.png)
-This image is an NFT minted on the Koii Network [here](https://koii.live/h3D8nUlM6a995s3G3fRW-qjYqMVyClqxMvvaRmhMoSo.html){:target="\_blank"}
-
 Let’s be real. How do you feel about the current state of the internet? Take a second to think about it. Maybe you thought “Why even ask the question? After all isn’t “the internet” well… “the internet?” Without thinking about it we generally accept it for what it is — an indispensable part of our daily lives, the place where more than ever we interact, create, work, play, love… We accept the fact that the internet is controlled by a handful of massive corporations — we use the services they provide and we pay them with our attention and consent to the obligatory advertisements and data mining. Fine. We have to give something to get something right?
 
 What would you tell a friend to do who was in a relationship like that? No doubt something along the lines of “you could do so much better” or “get out while you still can!”
@@ -32,7 +29,8 @@ Koii uses something called Proofs of Real Traffic or PoRT for short. PoRT is a n
 
 Consider an example of how this might work. Imagine for a moment that you are filming yourself feeding your koi fish named Charlie, he bites your finger and it’s hilarious. You take that short video clip and upload it as an NFT on [koi.rocks](https://koi.rocks/contents){:target="\_blank"} using the [Finnie](https://koii.network/getFinnie?&utm_source=FinnieWallet&utm_medium=CoinSpeaker&utm_source=Finniepressrelease){:target="\_blank"} wallet. After minting the video clip NFT for less then the cost of a bottle of water ( about $0.10 USD for a 5mb file as of this writing) you are next given the option to copy a small snippet of code that will enable you to post that video wherever you would like on the web and start receiving attention rewards. Your media file is stored safely and permanently on the Arweave network and registered as an [Atomic NFT](https://atomicnft.com/){:target="\_blank"}. This allows you to maintain ownership of the content across any blockchain or internet platform. The original file, the NFT and the smart contract are combined and managed all through the decentralized Koii Network.
 
-![image1](/assets/images/blog/08-24-image1.png)
+![image0](/assets/images/blog/08-24-cover.png)
+This image is an NFT minted on the Koii Network [here](https://koii.live/h3D8nUlM6a995s3G3fRW-qjYqMVyClqxMvvaRmhMoSo.html){:target="\_blank"}
 
 By combining your media file with the Arweave smart contract code it makes it so that when your file is replicated, shared, or posted elsewhere the attention generated is linked to the original file. Whoever owns the the Koii minted NFT will receive the attention rewards generated in the form of Koii tokens paid to the Finnie wallet that holds the NFT. Very soon the Koii Network will make it so that any NFT minted on Koii will also be able to be listed on other blockchain networks. With one click you will be able to upload your NFT to Ethereum and use the OpenSea platform or any other of your choosing, doing away with the need to commit your NFT to any specific ecosystem.
 
