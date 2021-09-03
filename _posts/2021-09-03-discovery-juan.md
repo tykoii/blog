@@ -27,9 +27,9 @@ Koii is a great project, I'll tell you a truth, when I started my career I was a
 
 ### Quick! Name three other artists you like and why.
 
-1 <b>Nam June Paik</b>. For his creativity and relationship with technologies.<br>
+1 <b>[Nam June Paik](https://en.wikipedia.org/wiki/Nam_June_Paik){:target="\_blank"}</b>. For his creativity and relationship with technologies.<br>
 2 <b>[Rafael Lozano-Hemmer](https://twitter.com/errafael){:target="\_blank"}</b> for the interaction / participation that his works achieve with the viewer.<br>
-3 <b>[Banksy](https://twitter.com/banksy){:target="\_blank"}</b> for his criticism of the system and for being anonymous like Nakamoto.<br>
+3 <b>[Banksy](https://www.instagram.com/banksy/){:target="\_blank"}</b> for his criticism of the system and for being anonymous like Nakamoto.<br>
 
 ### Where can we find you?
 
