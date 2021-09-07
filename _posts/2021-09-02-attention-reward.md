@@ -2,7 +2,7 @@
 layout: post
 title: "Restarting the Economic Engine of the Internet with Attention Rewards"
 categories: [Announcement]
-image: assets/images/blog/Blog-Restarting the Economic Engine (1).png
+image: assets/images/blog/Blog-Restarting-the-Economic-Engine.png
 ---
 
 ## Restarting the Economic Engine of the Internet with Attention Rewards
