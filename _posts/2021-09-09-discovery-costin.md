@@ -52,7 +52,7 @@ You can find me on
 - Foundation: [https://foundation.app/@Alien_Ape_Star](https://foundation.app/@Alien_Ape_Star){:target="\_blank"}
   And of course on Koii!
 
-### Check our Alein ape star on Koi.rocks:
+### Check our Alien Ape Star on Koi.rocks:
 
 - [Alien Deer Skull](https://koii.live/wYHHyUZcg7xtCYL43dDM135QZREw8kpDVFzZQGC6IdQ.html)
 
