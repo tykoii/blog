@@ -16,7 +16,7 @@ I just love to see people excited when they discover new art!
 
 ### What are you working on right now?
 
-Currently sculpting in VR and soon animating a new Atomic NFT collection for koi.rocks! It's called ["KoiiGang"](https://vimeo.com/601234558){:target="\_blank"} and will feature a biker gang in a cyberpunk koi universe! More teasers soon!
+Currently sculpting in VR and soon animating a new Atomic NFT collection for koi.rocks! It's called ["KoiiGang"](https://koii.live/Kd8amLQAwDWgeDhwUJAgb-BwuqvkIN5LQKspMkh9Azw.html){:target="\_blank"} and will feature a biker gang in a cyberpunk koi universe! More teasers soon!
 
 ### What bothers you about the NFT space?
 
@@ -53,8 +53,6 @@ You can find me on
   And of course on Koii!
 
 ### Check our Alien Ape Star on Koi.rocks:
-
-<iframe width="100%" src="https://koi.rocks/embed/Kd8amLQAwDWgeDhwUJAgb-BwuqvkIN5LQKspMkh9Azw" title="Koii  NFT image" frameborder="0" allowfullscreen></iframe>
 
 - [Alien Deer Skull](https://koii.live/wYHHyUZcg7xtCYL43dDM135QZREw8kpDVFzZQGC6IdQ.html)
 
