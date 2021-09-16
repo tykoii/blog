@@ -5,11 +5,11 @@ categories: [Announcement]
 image: assets/images/blog/Blog_cover-Narcissus.png
 ---
 
-## Yesterday we had the opportunity to showcase Koii’s creator-friendly features at Sanctor’s Demo Day – a virtual event geared towards rising stars within the crypto space.
+Yesterday we had the opportunity to showcase Koii’s creator-friendly features at Sanctor’s Demo Day – a virtual event geared towards rising stars within the crypto space.
 
 As you may know, Koii was created to empower anyone to create and share new forms of content on their own terms – and be rewarded for their efforts. Koii’s scalable consensus protocol tracks attention across the open internet while ensuring that content creators can mint and distribute new digital assets such as NFTs in a way that is substantially more cost-effective and self-sovereign than what the Ethereum network currently allows.
 
-All these features are brought to life via “Narcissus”, a limited-edition series of atomic NFTs the Koii team unveiled during Sanctor’s Demo Day. Like other Atomic NFTs, Narcissus Flowers grow, morph, degrade, and regenerate based on external stimuli which is captured using Koii’s Proof-of-Real-Traffic mechanism. Given Koii’s focus on the attention economy, these Narcissus Flowers evolve in response to how much attention they receive, although the specific parameters that dictate Atomic NFTs are essentially limitless. And while these Narcissus Flowers may seem a lot like other “evolving NFTs” currently on the market, Koii’s atomic NFTs have several game-changing characteristics that benefit our growing community of content creators. Most notably:
+All these features are brought to life via “Narcissus”, a limited-edition series of atomic NFTs the Koii team unveiled during Sanctor’s Demo Day. Like other Atomic NFTs, Narcissus Flowers grow, morph, degrade, and regenerate based on external stimuli which is captured using Koii’s Proof of Real Traffic (PoRT) consensus mechanism. The Koii Tasks enabled via Koii’s PoRT protocol enables these Narcissus Flowers to evolve in response to how much attention they receive – although the specific parameters that dictate Atomic NFTs are essentially limitless. And while these Narcissus Flowers may seem a lot like other “evolving NFTs” currently on the market, Koii’s atomic NFTs have several game-changing characteristics that benefit our growing community of content creators. Most notably:
 
 ## Unlike other dynamic NFTs, Atomic NFTs are completely decentralized and self-contained.
 
@@ -43,11 +43,11 @@ And while the creation of dynamic, self-evolving forms of content has the potent
 
 ## Let’s Grow Something Together.
 
-Sanctor Demo Day was attended by hundreds of people – many of whom received their own Narcissus Flower. If you didn’t get a chance to participate, we’d like to extend the party to you via our upcoming Garden Party, which will take place on Monday, September 27.
+Sanctor Demo Day was attended by hundreds of people – many of whom received their own Narcissus Flower. If you didn’t get a chance to participate, we’d like to extend the party to you via our upcoming Garden Party, which will take place on Monday, September 27 (1PM EST).
 
 Attendees with the Finnie Wallet installed will have a second chance to receive a Narcissus Flower of their own, and the event will feature an exciting roster of panelists who will share their thoughts on the future attention economy!
 
-[Register for Koii's Narcissus Garden Party now!](https://www.eventbrite.ca/e/koiis-narcissus-garden-party-tickets-171527422137){:target="\_blank"}
+[Join us for Koii’s Garden Party!](https://www.eventbrite.ca/e/koiis-narcissus-garden-party-tickets-171527422137){:target="\_blank"}
 
 Every day, more people are gravitating towards smaller, more relatable creators – or coming up with their own niche content – and Koii is providing an exciting new way to do both. There’s something slightly mystical about receiving a dynamic NFT, because you don’t know what it will become over time or what affects its evolution unless you’re told. These open-ended, interactive forms of creative expression will form the heart of tomorrow’s attention economy and beyond, and we’re excited to see you play an active role in it!
 
