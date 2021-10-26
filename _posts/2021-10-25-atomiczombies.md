@@ -15,7 +15,7 @@ Atomic Zombies is launched in collaboration with Koii, and is the first large-sc
 
 So what are you waiting for? [Join the horde](http://atomiczombies.io){:target="\_blank"}.
 
-![zombieimage](/assets/images/blog/zombies.png)
+![zombieimage](/assets/images/blog/Slow_Demo_video.gif)
 
 ## Drop Details
 
