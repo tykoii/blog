@@ -2,7 +2,7 @@
 layout: post
 title: "Atomic Zombies Bring NFTs Back to Life with Attention Rewards and Generative Characteristics"
 categories: [Announcement]
-image: assets/images/blog/zombies.png
+image: assets/images/blog/Gleam_Campaign-twitter-opt1_6.png
 ---
 
 _DKleine’s Atomic Zombies NFTs rise from the dead as they feed on their online encounters_
@@ -34,6 +34,8 @@ Atomic Zombies are minted with a number of unique characteristics, and all zombi
 Each day, the Zombie that has received the most attention is rewarded with the ultimate characteristic: the attention crown. This attention crown changes owners once every 24 hours depending on which Atomic Zombie received the most views that day. After every two weeks, KOII rewards will be distributed to the owner of the Atomic Zombie with the attention crown on the final day of that two-week period.
 
 The attention-dependent generative properties of an Atomic Zombie are only possible on Koii. This means that buyers who obtain an Atomic Zombie on OpenSea are effectively purchasing a “voucher” that can be redeemed for a Zombie NFT once it is transferred to the Koii network. As a result, in order to bring your Atomic Zombie to life you’ll need the [Finnie wallet](https://blog.koii.network/Simplified-Finnie-Installation-Guide/){:target="\_blank"}, which serves as your gateway to Koii and Arweave. In addition to letting you unearth your Atomic Zombie in full, Finnie allows you to receive your KOII rewards as your zombie feasts on its viewers, and is an essential component of the Koii universe and creative economy of the future.
+
+![zombieimage](/assets/images/blog/zombies.png)
 
 ## Zombie Characteristics
 
