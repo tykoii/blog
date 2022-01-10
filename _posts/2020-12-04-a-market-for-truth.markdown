@@ -52,7 +52,7 @@ Koii is a community-driven project- that means you're the boss. We're open to su
 ## Transparency = Prosperity
 
 Through the idealogical revolution of the past 200 years, from the end of monarchy, to the end of slavery, and now the end of centralized media, one thing has stayed constant. Human beings, given more knowledge, become more creative, more generous, and build greater and more amazing solutions than anyone could have ever imagined in the middle ages.
-
+llkslkadslaksdlajk
 ## Preserving Information
 
 Wikipedia's list of <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_book-burning_incidents">Book Burning Incidents</a> is over three pages long- we want to make sure that knowledge destruction ends with our generation. The Koii Network will support an archive of the web, to ensure that reliable information is preserved at all costs.
