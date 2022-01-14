@@ -62,4 +62,4 @@ Owners of Ethereum-based NFTs will still retain ownership of their original digi
 
 If you're an NFT creator or collector and you want to show off your stuff, consider this your chance to prove that your NFT is the coolest thing on the internet. Send us an email at <a href="mailto:support@koii.network">support@koii.network</a> and we'll help you get set up.
 
-The contest starts in two weeks, so don't wait! Spots are limited.
+The contest starts in two weeks so don't wait! Spots are limited.
