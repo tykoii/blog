@@ -11,19 +11,19 @@ For those of you new to Koii, we are the first network layer to achieve truly sc
 
 Developers who implement our simple-to-run Javascript-based SDK in their projects will be able to take advantage of Koii’s unique technology stack, including:
 
-[Attention Rewards](https://blog.koii.network/What-Is-The-Attention_Economy/){:target="\_blank"}
-[PoRT (Proofs of Real Traffic)](https://koii.network/proofs-of-real-traffic.pdf){:target="\_blank"}
-[Atomic NFTs](https://atomicnft.com){:target="\_blank"}
-[Finnie Wallet Integration](https://github.com/koii-network/Finnie.site){:target="\_blank"}
-[Koii DID (Decentralized ID)](https://blog.koii.network/DID/){:target="\_blank"}
-[Koii Nodes (Tasks)](https://koii.network/earn/everyone){:target="\_blank"}
-[Cross-chain bridging](https://blog.koii.network/Ethereum-to-Koii/){:target="\_blank"}  and more
+* [Attention Rewards](https://blog.koii.network/What-Is-The-Attention_Economy/){:target="\_blank"}
+* [PoRT (Proofs of Real Traffic)](https://koii.network/proofs-of-real-traffic.pdf){:target="\_blank"}
+* [Atomic NFTs](https://atomicnft.com){:target="\_blank"}
+* [Finnie Wallet Integration](https://github.com/koii-network/Finnie.site){:target="\_blank"}
+* [Koii DID (Decentralized ID)](https://blog.koii.network/DID/){:target="\_blank"}
+* [Koii Nodes (Tasks)](https://koii.network/earn/everyone){:target="\_blank"}
+* [Cross-chain bridging](https://blog.koii.network/Ethereum-to-Koii/){:target="\_blank"}  and more
 
 ### Koii-X
 
 In addition to the Koii Javascript-based SDK, we created the Koii-X UI template library. Koii.X is built 100% in Javascript and allows you to build and deploy a wide variety of dApps quickly and easily. These templates are optimized to work with attention-tracking NFTs and utilize built-in web3 hooks to interact with our tech stack and ever-growing list of cross-chain resources. Let us take a closer look at an example.
 
-###Develop and Deploy a Decentralized Crowdfunding Portal
+### Develop and Deploy a Decentralized Crowdfunding Portal
 
 For this example, we have chosen to use a Koii-X template for deploying a crowdfunding portal for cryptocurrencies. We want to highlight this example for two reasons:
 
