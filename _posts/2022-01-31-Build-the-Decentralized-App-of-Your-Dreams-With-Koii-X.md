@@ -11,6 +11,7 @@ For those of you new to Koii, we are the first network layer to achieve truly sc
 
 Developers who implement our simple-to-run Javascript-based SDK in their projects will be able to take advantage of Koii’s unique technology stack, including:
 
+
 - [Attention Rewards](https://blog.koii.network/What-Is-The-Attention_Economy/){:target="\_blank"}
 - [PoRT (Proofs of Real Traffic)](https://koii.network/proofs-of-real-traffic.pdf){:target="\_blank"}
 - [Atomic NFTs](https://atomicnft.com){:target="\_blank"}
@@ -19,11 +20,14 @@ Developers who implement our simple-to-run Javascript-based SDK in their project
 - [Koii Nodes (Tasks)](https://koii.network/earn/everyone){:target="\_blank"}
 - [Cross-chain bridging](https://blog.koii.network/Ethereum-to-Koii/){:target="\_blank"} and more
 
+
 ### Koii-X
 
 In addition to the Koii Javascript-based SDK, we created the Koii-X UI template library. Koii.X is built 100% in Javascript and allows you to build and deploy a wide variety of dApps quickly and easily. These templates are optimized to work with attention-tracking NFTs and utilize built-in web3 hooks to interact with our tech stack and ever-growing list of cross-chain resources. Let us take a closer look at an example.
 
+
 ### Develop and Deploy a Decentralized Crowdfunding Portal
+
 
 For this example, we have chosen to use a Koii-X template for deploying a crowdfunding portal for cryptocurrencies. We want to highlight this example for two reasons:
 
@@ -33,6 +37,7 @@ For this example, we have chosen to use a Koii-X template for deploying a crowdf
 **With 5 basic steps** and in less than 10 minutes, you can be up and running a crowdfunding portal for your project with Koii-X:
 
 - Download and install the following github repositories **(Node v16.XX, Yarn, Arweave-deploy, Arweave wallet.json)**
+
 - Use **create-koii-app** to setup the initial KOII.X project template
 - Customize your **config.ts** file
 - Deploy to Arweave using **Yarn build** and **Yarn deploy**
@@ -45,3 +50,4 @@ Although this is a simplified breakdown of the process, we can see that with a f
 Our goal with these tools is to make building truly decentralized apps easier while providing ample incentive through attention rewards for both developers and end-users when implementing the Koii technology stack.
 
 We have only just scratched the surface of what's possible with Koii. Make sure you check out the [Koii docs portal](http://koii.me/dev_docs){:target="\_blank"} for more documentation, and feel free to reach out to us at [http://koii.me/support](http://koii.me/support){:target="\_blank"} with any questions and don't forget to sign up for our [ETH Denver Workshop](https://koii.me/ETHDenWorkshop){:target="\_blank"} for a live demonstration.
+
