@@ -17,7 +17,7 @@ NFTs can be minted natively on the Arweave network and immediately begin receivi
 
 To interact with the Koii ecosystem, you must have the Finnie wallet. Finnis is easy to download, and can be used with the Koii Faucet to get 5 KOII and start your journey with attention rewards.
 
-Check out this guide to downloading Finnie. Remember to always keep your seed phrase secure!
+[Check out this guide to downloading Finnie](https://blog.koii.network/Simplified-Finnie-Installation-Guide/){:target="\_blank"}. Remember to always keep your seed phrase secure!
 
 ## Step 2: Connect your Ethereum Address to your Finnie Wallet
 
@@ -51,8 +51,10 @@ On the left-hand side, click the homepage icon. Now, you’ll see a list of all 
 
 ## Step 4: Transfer your Selected NFTs to Arweave & Koii
 
+Select your NFT for transfer, click the Transfer button to the right of the NFT thumbnail and select Koii. Enter the Finnie wallet address you would like to transfer the NFT to, verify the transfer cost, and send your NFT to Arweave & Koii.
+
 ## Step 5: Earn!
 
-And that’s it! Your NFT is now on the Arweave and Koii networks, and available for transfer within your Finnie wallet.
+And that’s it! Your NFT is now on the Arweave and Koii networks, and available for transfer within your Finnie wallet. While your NFT is on Koii, it will earn KOII rewards in proportion to the views it receives.
 
 <b>Want to get back to Ethereum?</b> Returning your NFT from Koii to Ethereum is as easy as reversing the process above. Return to “My Gallery” in your Koii wallet and locate the NFT you wish to return from the Arweave network to the Ethereum network. Select that you’d like to move the asset to Ethereum and pay the 10 KOII fee to do so. Shortly after, you’ll see your NFT back in your Ethereum wallet.
