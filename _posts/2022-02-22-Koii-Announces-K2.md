@@ -23,25 +23,21 @@ For users who have tokens on other networks, the K2 layer will also support wrap
 
 Some of the reasons why we're rolling out the K2 (and its benefits) are talked about in the features listed below.
 
-## - Incredible Transaction Speed
+## Incredible Transaction Speed
 
 The K2 settlement layer has a near-instantaneous transaction speed of up to 2000 tps. The K2's incredible speed is scarcely found in the blockchain except with Layer-2 blockchain solutions coming out. But even with this, there are no networks with speeds comparable to that of the K2 settlement layer out there. This is one of the biggest advantages of this layer and one reason we're so excited to launch this.
 
-## - Near Constant Uptime
+## Near Constant Uptime
 
 Because a system is only useful if it is available to be used, we've ensured that after testing for hundreds of hours, the K2 settlement layer boasts of a near-constant uptime. We understand that network failure is a huge inconvenience and high availability translates to maximum profitability for everyone. As a result, we've pulled all the stops to ensure that there are almost no downtimes ever with the K2 layer. From scheduling security patches for times that wouldn't cause inconveniences to improved caching to thorough performance testings, the K2 settlement layer has been built to have high uptime.
 
-## - Secure Payment Processings
+## Secure Payment Processings
 
 We understand that Web 3.0 and blockchain space has been a target for bad players looking to exploit the financial loopholes of platforms. This is why we built a secure payment processing system in the K2 layer. Users of the settlement layer will enjoy an efficient and frictionless experience where they are protected when they carry out transactions on the K2 settlement layer. The K2 layer is also independent as the failures of other networks do not affect the system in any way.
 
-## - Increased Capacity for Proof of Real Traffic (PoRT)
+## Increased Capacity for Proof of Real Traffic (PoRT)
 
 This is one of the unique solutions which makes the Koii network stand out on the blockchain. Koii is a protocol built off the Arweave network, and it uses the Proof of Real Traffic (PoRT) mechanism to power the applications built on top of it. For example, with NFTs, PoRT enables unique opportunities for owners of NFTs to benefit from the attention their assets receive online. These NFTs earn KOII tokens in the proportion to how much attention they receive. The same PoRT mechanism is adapted to the K2 settlement layer and this time, with an increased capacity (up to 1 billion per day). With this, users and NFT owners can continue to earn passive income from putting their idle assets to work.
-
-## - New Settlement Layer
-
-The K2 provides a brand new settlement layer for bundling tasks and transactions, and this is literal. Everything about this layer just feels new, fresh. From the speed to the uptime as mentioned above, to its efficiency. In a not-too-distant time, the K2 will be the king amongst settlement layers and many blockchain solutions would be playing catch up. Best to get in early now yea?
 
 # Why is K2 important?
 
