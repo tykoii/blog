@@ -2,7 +2,7 @@
 layout: post
 title: "Koii Announces K2 on 2/22/22"
 categories: [Announcement]
-image: assets/images/blog/grant.png
+image: assets/images/blog/k222.png
 ---
 
 In our continuous efforts to keep building and making Koii Network a seamless experience for our users, we're thrilled to announce the upcoming rollout of Koii’s K2 settlement layer today (2/22/22). K2, which is the next layer of the Koii ecosystem, is a high-speed settlement layer that will expand the capacity of our network to over 1 billion daily Proofs of Real Traffic (PoRT), along with near-instant transactions.
