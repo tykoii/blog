@@ -11,7 +11,7 @@ K2, the next layer of the Koii ecosystem, is a high-speed settlement layer that 
 
 This allows Koii to provide a fully decentralized application infrastructure without compromising user experience. This focus on customer experience is a critical factor as blockchain adoption reaches mainstream audiences.
 
-Supporting our existing work on Task Node infrastructure, the K2 settlement layer enables accelerated communications and increased payment security. As the testnet is opened to the public over the coming months, existing Task operators will update their systems to take advantage of these new features. If you’re interested in testing the network or building a dApp of your own, you can [RSVP here](http://koii.me/support){:target="\_blank"}.
+Supporting our existing work on Task Node infrastructure, the K2 settlement layer enables accelerated communications and increased payment security. As the testnet is opened to the public over the coming months, existing Task operators will update their systems to take advantage of these new features. If you’re interested in testing the network or building a dApp of your own, you can [RSVP here](https://koii.me/k2){:target="\_blank"}.
 
 The K2 settlement layer structure is made of Koii task nodes (K1) which is built on top of storage networks like Arweave. These task nodes read and write data from other blockchains and transfer values using K2 to process transactions instantly. K2 contains Rust contracts which increases the low-level efficiency of task executions.
 
