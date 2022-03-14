@@ -15,7 +15,4 @@ Productivity software like IFTTT, while tremendously useful, often leave it to t
 
 <h1>GoldFish x IFTTT</h1>
 We've made it easy to configure your GoldFish web scrapers to trigger an IFTTT workflow. Just configure your IFTTT to accept a webhook, and then select the 'IFTTT' option while configuring your scraper. You can set any frequency you like, and our service will check the website, get the data, and pass it to IFTTT to trigger your workflow. 
-
-<h1>What are you waiting for?</h1>
-Head on over to <a href="https://goldfishservice.xyz">our portal</a> and set up your first scrapers for free!
  
